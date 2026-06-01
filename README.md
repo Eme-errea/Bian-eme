@@ -1,6 +1,6 @@
 # [nombre pendiente]
 
-**Perfume como accesorio. Diseñado para la llegada.**
+**Perfume como accesorio. Diseñado para el movimiento.**
 
 Buenos Aires, Argentina — 2026  
 Founders: Bianca & Eme
@@ -13,6 +13,8 @@ El perfume fue diseñado para el movimiento.
 
 Para la vida que ocurre en el camino — en el taxi, en el bar a la 1am, frente al espejo entre canciones.  
 La botella quedó en casa. Vos no.
+
+*El perfume existe porque la vida ocurre en movimiento, y en ese movimiento hay llegadas.*
 
 No hay nada en el mercado argentino que se sienta genuinamente cool.  
 Ella ya curó su playlist, su depto, su outfit.  
