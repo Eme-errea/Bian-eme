@@ -9,10 +9,10 @@ Founders: Bianca & Eme
 
 ## Por qué existe
 
-El perfume fue diseñado para la llegada.
+El perfume fue diseñado para el movimiento.
 
-En el taxi. En el bar a la 1am. Frente al espejo entre canciones.  
-La botella quedó en casa. La vida está afuera.
+Para la vida que ocurre en el camino — en el taxi, en el bar a la 1am, frente al espejo entre canciones.  
+La botella quedó en casa. Vos no.
 
 No hay nada en el mercado argentino que se sienta genuinamente cool.  
 Ella ya curó su playlist, su depto, su outfit.  
