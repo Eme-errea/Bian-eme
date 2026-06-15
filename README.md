@@ -1,9 +1,10 @@
-# [nombre pendiente]
+# Pulso
 
 **Perfume como accesorio. Diseñado para el movimiento.**
 
 Buenos Aires, Argentina — 2026  
-Founders: Bianca & Eme
+Founders: Bianca & Eme  
+Instagram / TikTok: [@pulsobsas](https://instagram.com/pulsobsas)
 
 ---
 

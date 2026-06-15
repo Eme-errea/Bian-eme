@@ -7,7 +7,7 @@
 
 ## Bloque 1 — Identidad *(primero, todo lo demás depende de esto)*
 
-- [ ] **Nombre de la marca** — generar opciones, verificar disponibilidad de handle e Instagram
+- [x] **Nombre de la marca** — **Pulso**. Instagram y TikTok ya creados como `@pulsobsas`.
 - [ ] **Look & feel visual** — paleta de colores, tipografía, referencias estéticas (Canva para moodboard)
 - [ ] **Logo** — concepto + ejecución en Canva o Looka. Output: PNG + SVG
 - [ ] **Guía de tono de voz** — formalizar lo que ya está en el README en una guía corta
@@ -24,8 +24,8 @@
 
 ## Bloque 3 — Presencia digital *(después de tener nombre y look & feel)*
 
-- [ ] **Instagram** — setup + bio + primeros 9 posts listos para publicar (imagen profesional + copy). Imágenes generadas con Claude Design / Canva / Nano Banana.
-- [ ] **TikTok** — setup + guía de primeros 5 videos con script, concepto y assets visuales
+- [ ] **Instagram** — cuenta creada (`@pulsobsas`). Falta: bio + primeros 9 posts listos para publicar (imagen profesional + copy). Imágenes generadas con Claude Design / Canva / Nano Banana.
+- [ ] **TikTok** — cuenta creada (`@pulsobsas`). Falta: guía de primeros 5 videos con script, concepto y assets visuales
 - [ ] **Website** — Tiendanube (integra MercadoPago y envíos). Estructura: Home / Producto / Historia / Contacto. Claude escribe todos los textos.
 
 ---
