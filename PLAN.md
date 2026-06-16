@@ -9,7 +9,7 @@
 
 - [x] **Nombre de la marca** — **Pulso**. Instagram y TikTok ya creados como `@pulsobsas`.
 - [x] **Look & feel visual** — dirección definida. Ver referencias y decisiones abajo ↓
-- [ ] **Logo** — concepto + ejecución en Canva o Looka. Output: PNG + SVG
+- [ ] **Logo** — tipografía definida: **Syne ExtraBold**, wordmark en minúsculas. Entre 2 opciones finales. Ver diseño: [Wordmark Variations](https://www.canva.com/d/499KVc9ek-LWlx9). Falta: elegir variante final → exportar PNG + SVG.
 - [ ] **Guía de tono de voz** — formalizar lo que ya está en el README en una guía corta
 
 ### Referencias visuales — Look & feel
