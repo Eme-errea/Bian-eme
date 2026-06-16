@@ -8,9 +8,34 @@
 ## Bloque 1 — Identidad *(primero, todo lo demás depende de esto)*
 
 - [x] **Nombre de la marca** — **Pulso**. Instagram y TikTok ya creados como `@pulsobsas`.
-- [ ] **Look & feel visual** — paleta de colores, tipografía, referencias estéticas (Canva para moodboard)
+- [x] **Look & feel visual** — dirección definida. Ver referencias y decisiones abajo ↓
 - [ ] **Logo** — concepto + ejecución en Canva o Looka. Output: PNG + SVG
 - [ ] **Guía de tono de voz** — formalizar lo que ya está en el README en una guía corta
+
+### Referencias visuales — Look & feel
+
+**Tablero de Pinterest:** [pinterest.com/somospulsobsas/pulso](https://ar.pinterest.com/somospulsobsas/pulso/?invite_code=9b6f02d51be247c48b78caeb85748983&sender=1089519472261712063)
+
+**Marcas de referencia:** AKKR · STURM · REFY · ITRI · KKW Fragrance · Rhode · omm blat
+
+**Dos mundos que conviven:**
+- **Producto** — frío, mineral, escultórico. Frascos matte cilíndricos sobre superficies de hormigón o piedra.
+- **Vida** — oscuro, cálido, ciudad de noche. Bar a la 1am, movimiento, Buenos Aires.
+
+**Paleta:**
+| Rol | Color | Hex |
+|---|---|---|
+| Base producto | Piedra / hormigón | `#C4BFB8` |
+| Fondo claro | Arena cálida | `#E8E2D9` |
+| Texto / logo | Marrón negro profundo | `#1A1512` |
+| Tono producto | Chocolate / taupe | `#6B4F45` |
+| Acento vida/noche | Ámbar cálido | `#B85C38` |
+
+**Tipografía:** bold, gráfica, sans-serif. "pulso" en minúsculas con mucho peso y espacio. Referencia: REFY.
+
+**Moodboards en Canva:**
+- [Opción 1 — Editorial Poster](https://www.canva.com/d/xon6_cuNW4BLibN)
+- [Opción 2 — Juxtaposed Moodboard](https://www.canva.com/d/rG8Mb6O6yXg_j6W)
 
 ---
 
