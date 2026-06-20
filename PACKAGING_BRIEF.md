@@ -21,23 +21,32 @@ Pulso es una marca de perfume de Buenos Aires. El producto principal es un frasc
 
 ## 3. Forma
 
-**Opción A — Cilíndrico** *(preferencia inicial)*
+**Opción A — Cilíndrico**
 Forma cilíndrica limpia, bordes levemente redondeados. Compacto, más alto que ancho.
 Referencia: SKKN BY KIM, AKKR
 
-**Opción B — Escultórico / orgánico**
-Forma más suave, inspirada en cerámica. Más volumen, más presencia como objeto de diseño.
-Referencia: RAIE
+**Opción B — Escultórico / orgánico** *(preferencia actual)*
+Forma tipo piedra de río parada — completamente redondeada, sin ángulos, más alta que ancha. Elongada verticalmente.
+Referencia: RAIE (pero más alargada/vertical)
 
 ---
 
 ## 4. Argolla / keychain *(elemento más importante)*
 
-- Argolla de metal integrada en la tapa, parte superior del frasco
-- Suficientemente grande para pasar una llave o colgar de un mosquetón de cartera
-- **Metal:** dorado (gold) o plateado cepillado (brushed silver)
-- La argolla es parte del diseño de la tapa — no un agregado externo
-- Referencia: Gisou keychain, slide "Quién es ella" del deck de marca
+**Sistema desmontable** — el frasco funciona solo (para repisa) y con llavero (para salir).
+
+**Parte fija en el frasco:**
+- Ojal/anilla pequeña fija en la parte superior de la tapa, parte del diseño
+- El frasco se ve limpio solo, sin hardware colgante
+
+**Parte desmontable (accesorio separado):**
+- Mosquetón / lobster claw clasp en brushed silver
+- Argolla circular O-ring que conecta el mosquetón al ojal del frasco
+- Se engancha y desengancha fácilmente
+- Referencia: slide "Quién es ella" del deck de marca
+
+**Metal:** plateado cepillado (brushed silver) — preferencia actual
+**Referencia:** Gisou keychain (concepto desmontable), slide "Quién es ella" (hardware)
 
 ---
 
