@@ -43,6 +43,7 @@
 
 - [ ] **Definir las 3 fragancias** — perfil olfativo de cada momento, trabajar con Joaquín
 - [ ] **Investigar packaging** — frascos 30ml llavero + 70ml home en Alibaba / Temu / Amazon / MercadoLibre. Tabla comparativa con precio unitario, MOQ y tiempo de entrega.
+- [ ] **Packaging de presentación / caja de envío** — evaluar opciones con Bianca. Opción a considerar: [MOSH® Micelio](https://www.instagram.com/mosh.micelio/) (packaging sustentable hecho de hongos — diferencial de marca, estética orgánica). Decidir junto con Bianca.
 - [ ] **Primera tirada** — definir cantidad de unidades. Modelo financiero: costo de producción, precio de venta, break-even.
 
 ---
