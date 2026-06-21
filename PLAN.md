@@ -78,10 +78,10 @@ Con los bloques anteriores resueltos, armar el plan de negocio completo:
 
 ```
 Semana 1–2 →  Nombre + look & feel + logo
-Semana 2–3 →  Investigación de packaging
-Semana 3–4 →  Instagram + TikTok
-Semana 4–5 →  Website
-Semana 5–6 →  Primera tirada + plan de negocio
+Semana 2–3 →  Fragancias con Joaquín + investigación de packaging
+Semana 3–4 →  Acuerdo de producción + modelo financiero
+Semana 4–5 →  Instagram + TikTok
+Semana 5–6 →  Website + primera tirada
 ```
 
 ---
