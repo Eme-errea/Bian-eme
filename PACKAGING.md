@@ -1,7 +1,7 @@
 # Packaging — Proveedores de frascos
 
 > Seguimiento de contactos para el packaging de Pulso: frasco llavero (30ml) + frasco home (70ml).
-> Actualizado: 26/06/2026
+> Actualizado: 26/06/2026 (tarde)
 
 ---
 
@@ -9,7 +9,7 @@
 
 | Proveedor | Estado | Lo más relevante |
 |---|---|---|
-| **Uzone Packaging** (David) | 🟢 Negociación activa | Cerámica, MOQ real 6.000 piezas, esperando respuesta sobre tapa a rosca y flexibilidad de MOQ |
+| **Uzone Packaging** (David) | 🟢 Negociación activa | Cerámica. Spray + tapa a rosca no es viable técnicamente — hay que elegir Opción A o B. Propuso plan de entrega flexible (1.000 + 2.000 en depósito) |
 | **Apogee Dev LLC** (Rob) | 🟢 Negociación activa | Llamada agendada hoy 26/06, 1pm BA |
 | **Cosmopak** (Dalton) | 🟡 En conversación | Bajó MOQ a 10.000/SKU, sigue siendo alto, no hay stock packaging |
 | **GP Bottles** (Ben) | 🟡 Esperando respuesta | Mandamos referencias + 1 mensaje de seguimiento, sin respuesta hace varios días |
@@ -36,9 +36,16 @@ Propuso fabricar los frascos en **cerámica** en vez de vidrio, por la forma org
 - **Muestras:** sí, después de aprobar el molde, antes de pasar a producción masiva.
 - **Garantías:** ofrece trabajar vía Alibaba con Trade Assurance, y dar contacto de un cliente en Argentina como referencia.
 
-**Tema sin resolver — cierre del frasco:** David explicó que si se usa atomizador, el sprayer se atornilla al cuerpo y la tapa solo lo *cubre*, sin hacer rosca de traba. Le planteamos que esto es un riesgo de seguridad porque el frasco cuelga de un llavero — si la tapa no traba con rosca, el mosquetón (fijado a la tapa) se puede soltar y el frasco caerse. Le pedimos opciones de construcción donde la tapa misma haga la rosca estructural, y también plantamos que 6.000 piezas es mucho compromiso para una primera tirada de un start-up.
+**Cierre del frasco — respuesta técnica de David:** combinar spray a rosca + tapa a rosca **no es viable** en un frasco de cerámica chico (problema de espacio/estructura). Ofrece dos alternativas:
+- **Opción A:** tapa a rosca con tapón de plástico interno seguro (sin spray, cierre simple pero firme — la tapa sí traba con rosca)
+- **Opción B:** spray a rosca/crimp con una tapa cobertora ajustada más fuerte de lo estándar (mantiene el spray, pero la tapa no hace rosca de traba — más riesgo para el uso como llavero)
 
-**Estado:** esperando su respuesta a ambos puntos.
+**MOQ — no bajó el número, pero ofreció una salida financiera:** mantiene 3.000 unidades por componente/color como mínimo real de su línea. Como alternativa para aliviar el cash flow de un start-up:
+- Entrega inicial de **1.000 unidades** para testear mercado
+- Las **2.000 restantes quedan guardadas en su depósito hasta 1 año, sin costo extra**
+- **30% de depósito** asegura el saldo, manteniendo el precio mayorista
+
+**Estado:** pendiente decidir entre Opción A o B antes de responder.
 
 ---
 
@@ -113,7 +120,7 @@ No es un proveedor de frascos — hacen **packaging sustentable de micelio de ho
 
 ## Próximos pasos
 
-1. Esperar respuesta de Uzone sobre el cierre a rosca y la flexibilidad de MOQ.
+1. Decidir Opción A (sin spray, tapa 100% a rosca) vs Opción B (con spray, tapa cobertora ajustada) para responderle a Uzone.
 2. Llamada con Apogee hoy 26/06, 1pm.
 3. Decidir si Cosmopak (10.000/SKU) es viable o se descarta.
 4. Insistir o descartar a GP Bottles (Ben) si sigue sin responder.
