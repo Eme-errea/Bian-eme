@@ -18,6 +18,18 @@
 | **Packafill** | ⚪ Sin respuesta | Consulta enviada 21/06 |
 | **Roetell** | ⚪ Sin respuesta | Consulta enviada 21/06 |
 | **FEEMIO** | 🔴 Descartado | MOQ 300.000 unidades, fábrica industrial pura |
+| **Eurovetrocap** | ⚪ Sin respuesta | Vidrio custom, consulta enviada 28/06 |
+| **Z.S.R. / Consumer Silicone Products** | ⚪ Sin respuesta | Silicona, MOQ ref. 3.000, consulta enviada 28/06 |
+| **NEWTOP Silicone** | ⚪ Sin respuesta | Silicona, consulta enviada 28/06 |
+| **Jution Silicone** | ⚪ Sin respuesta | Silicona, consulta enviada 28/06 |
+| **HB Silicone** | ⚪ Sin respuesta | Silicona, consulta enviada 28/06 |
+| **Haotian Silicone** | ⚪ Sin respuesta | Silicona, MOQ ref. **100–300** (el más bajo de todos), consulta enviada 28/06 |
+| **GiftsService** | ⚪ Sin respuesta | Silicona/charms, MOQ ref. 300, consulta enviada 28/06 |
+| **LEADERS (lds-perfumecap)** | ⚪ Sin respuesta | Zamac, MOQ ref. 5.000, consulta enviada 28/06 |
+| **Abely** | ⚪ Sin respuesta | Zamac/ABS, consulta enviada 28/06 |
+| **Elegant Packaging (fragrancepackage.com)** | ⚪ Sin respuesta | Resina, MOQ ref. 1.000, consulta enviada 28/06 |
+| **Terra Crystal** | ⚪ Sin respuesta | Piedra/cristal, MOQ ref. 1.000+, consulta enviada 28/06 |
+| **G.P.Grant** | ⚪ Sin respuesta | Piedra natural (Suiza), consulta enviada 28/06 |
 | **MOSH® Micelio** | 💡 Opción a evaluar | No es proveedor de frascos — packaging de envío/presentación en micelio. Decisión pendiente con Bianca |
 
 ---
@@ -118,6 +130,50 @@ No es un proveedor de frascos — hacen **packaging sustentable de micelio de ho
 
 ---
 
+### Nuevos proveedores — guía de sourcing (28/06)
+
+Surgieron de una guía de sourcing compartida por WhatsApp. Hallazgo clave: el objeto combina 3 cosas que casi ningún fabricante hace junto a bajo volumen (cuerpo escultórico + hardware tipo joyería + mecanismo de spray) — conviene separar **cuerpo** y **mosquetón** en proveedores distintos y ensamblar después, en vez de buscar un solo proveedor "todo en uno" como veníamos haciendo con vidrio/cerámica.
+
+A todos se les mandó el mismo mail (réplica del enviado a Eurovetrocap) el 28/06, pidiendo: si pueden desarrollar molde custom, acabados disponibles, MOQ y costo de tooling, si hacen debossing, y tiempos/envío a Argentina.
+
+**Silicona — el hallazgo más relevante: MOQ mucho más bajo que vidrio/cerámica**
+
+| Proveedor | Mail | MOQ de referencia (guía) |
+|---|---|---|
+| Z.S.R. / Consumer Silicone Products | info@consumersiliconeproducts.com | 500–3.000 |
+| NEWTOP Silicone | sales@newtopsilicone.com | — |
+| Jution Silicone | info@jutionsilicone.com | — |
+| HB Silicone | info@hbsilicone.com | — |
+| Haotian Silicone | bella@htsilicone.com | **100–300** (el más bajo de toda la guía) |
+| GiftsService | sales@giftsservice.com | desde 300 |
+
+**Zamac / resina (look más pesado y premium, MOQ más alto)**
+
+| Proveedor | Mail | MOQ de referencia (guía) |
+|---|---|---|
+| LEADERS (lds-perfumecap) | info@lds-perfumecap.com | ~5.000 |
+| Abely | abely@abelyperfume.com | — |
+| Elegant Packaging (fragrancepackage.com) | elegantpackaging@fragrancepackage.com | desde 1.000 |
+
+**Piedra natural (para un posible insert tipo mármol Emperador)**
+
+| Proveedor | Mail | MOQ de referencia (guía) |
+|---|---|---|
+| Terra Crystal | terra@terra-crystal.com | 1.000+ |
+| G.P.Grant (Suiza) | info@gpgrant.com | — |
+
+**Vidrio custom**
+
+| Proveedor | Mail |
+|---|---|
+| Eurovetrocap | eurovetrocap@eurovetrocap.com |
+
+**Otros hallazgos de la guía (sin contactar todavía):**
+- **Hardware/mosquetón local en Buenos Aires:** Barth (zamak) y Hernández Galvano — evitaría importar esa pieza.
+- **Prototipado local en Buenos Aires:** Sólidos, Fábrica 3D, Printonic — validar las 5 formas en resina 3D (USD 200–800) antes de pagar molde en China.
+
+---
+
 ## Próximos pasos
 
 1. Decidir Opción A (sin spray, tapa 100% a rosca) vs Opción B (con spray, tapa cobertora ajustada) para responderle a Uzone.
@@ -125,3 +181,5 @@ No es un proveedor de frascos — hacen **packaging sustentable de micelio de ho
 3. Decidir si Cosmopak (10.000/SKU) es viable o se descarta.
 4. Insistir o descartar a GP Bottles (Ben) si sigue sin responder.
 5. Hacer seguimiento a Jarsking, Packafill y Roetell si no responden en los próximos días.
+6. Esperar respuestas de los 12 proveedores nuevos contactados el 28/06 (silicona, zamac/resina, piedra, vidrio).
+7. Evaluar prototipado local (Sólidos / Fábrica 3D / Printonic) para validar las 5 formas antes de comprometerse con molde en China.
