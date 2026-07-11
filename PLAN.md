@@ -27,9 +27,11 @@
 |---|---|---|
 | Base producto | Piedra / hormigón | `#C4BFB8` |
 | Fondo claro | Arena cálida | `#E8E2D9` |
-| Texto / logo | Marrón negro profundo | `#1A1512` |
 | Tono producto | Chocolate / taupe | `#6B4F45` |
 | Acento vida/noche | Ámbar cálido | `#B85C38` |
+| Acento fresco | Lima / sage | `#B8C99A` |
+| Acento profundo | Bordo / vino | `#7A2B30` |
+| Texto / logo | Marrón negro profundo | `#1A1512` *(uso tipográfico, no fondo)* |
 
 **Tipografía:** bold, gráfica, sans-serif. "pulso" en minúsculas con mucho peso y espacio. Referencia: REFY.
 
