@@ -1,6 +1,6 @@
 # PULSO — MASTER PRODUCT SPECIFICATION
 
-**Version 1.0** · Julio 2026 · Eme & Bianca
+**Version 1.1** · Julio 2026 · Eme & Bianca
 
 > Documento maestro de referencia para diseñadores industriales, modeladores 3D, proveedores y fabricantes.
 > A partir de este archivo, el producto no cambia de forma entre una imagen y otra.
@@ -13,7 +13,7 @@
 | -------------- | -------------------------------------------------------------------- |
 | Product Name   | PULSO Clip & Go                                                      |
 | Category       | Refillable fragrance bottle                                          |
-| Capacity       | 15 ml *(confirmar)*                                                  |
+| Capacity       | 30 ml                                                                |
 | Concept        | Frasco de perfume recargable diseñado como bag charm de lujo cotidiano |
 
 ---
@@ -48,14 +48,15 @@ Vista explotada con las siguientes partes numeradas:
 
 ## Dimensiones generales
 
-| Feature      | Specification         |
-| ------------ | --------------------- |
-| Total Height | — *(a confirmar)*     |
-| Body Height  | — *(a confirmar)*     |
-| Cap Height   | — *(a confirmar)*     |
-| Max Width    | — *(a confirmar)*     |
-| Max Depth    | — *(a confirmar)*     |
-| Body/Cap Ratio | — *(a confirmar)* |
+| Feature        | Specification |
+| -------------- | ------------- |
+| Total Height   | 88 mm         |
+| Body Height    | 68 mm         |
+| Cap Height     | 20 mm         |
+| Max Width      | 42 mm         |
+| Max Depth      | 32 mm         |
+| Body/Cap Ratio | 77% / 23%     |
+| Weight (aprox.)| 108 g         |
 
 ## Vistas técnicas requeridas
 
@@ -129,12 +130,13 @@ Semi-opaco · 15–20 GU Satin (bajo brillo)
 
 ## Rosca interna
 
-| Atributo            | Valor           |
-| ------------------- | --------------- |
-| Tipo                | — *(a definir)* |
-| Paso                | — *(a definir)* |
-| Diámetro            | — *(a definir)* |
-| Cantidad de vueltas | — *(a definir)* |
+| Atributo            | Valor              |
+| ------------------- | ------------------ |
+| Tipo                | Standard fine thread |
+| Diámetro de cuello  | 15.8 mm            |
+| Altura de cuello    | 11.2 mm            |
+| Paso                | — *(a definir)*    |
+| Cantidad de vueltas | — *(a definir)*    |
 
 ## Material
 
@@ -160,12 +162,12 @@ Spray actuator
 
 ## Especificaciones
 
-| Componente     | Material  | Altura | Diámetro | Proveedor | Compatibilidad |
-| -------------- | --------- | ------ | -------- | --------- | -------------- |
-| Spray actuator | Aluminio  | —      | —        | —         | —              |
-| Válvula        | —         | —      | —        | —         | —              |
-| Bomba (Pump)   | PP        | —      | —        | —         | —              |
-| Tubo dip       | PE        | —      | —        | —         | —              |
+| Componente     | Material  | Detalle                        | Proveedor       |
+| -------------- | --------- | ------------------------------ | --------------- |
+| Spray actuator | Aluminio  | Fine mist · 0.09–0.11 ml/press | — *(a definir)* |
+| Válvula        | —         | —                              | — *(a definir)* |
+| Bomba (Pump)   | PP        | High quality pump              | — *(a definir)* |
+| Tubo dip       | PE        | Clear                          | — *(a definir)* |
 
 > **Pendiente:** relevar proveedor de spray mechanism compatible con frasco 15 ml. Ver Alibaba / Intertek / proveedores cosméticos.
 
@@ -194,7 +196,7 @@ Spray actuator
 | --------- | ------------------------------------------------- |
 | Forma     | Mosquetón moderno con inspiración en la letra "P" |
 | Material  | Acero inoxidable 304                              |
-| Acabado   | Brushed Silver                                    |
+| Acabado   | Brushed Antique Brass                             |
 | Espesor   | ≈5 mm                                             |
 | Esquinas  | Radio grande                                      |
 | Resorte   | Spring gate con bisagra visible                   |
@@ -202,11 +204,21 @@ Spray actuator
 
 ## Argolla (Ring)
 
-| Atributo | Especificación                         |
-| -------- | -------------------------------------- |
-| Material | Acero inoxidable 304 (mismo que carabiner) |
-| Diámetro | ≈8 mm                                  |
-| Posición | Centrada en el lado derecho de la tapa |
+| Atributo | Especificación                             |
+| -------- | ------------------------------------------ |
+| Material | Acero inoxidable 304                       |
+| Acabado  | Brushed Antique Brass                      |
+| Diámetro | ≈8 mm                                      |
+| Posición | Centrada en el lado derecho de la tapa     |
+
+## Logo Plate
+
+| Atributo | Especificación                   |
+| -------- | -------------------------------- |
+| Material | Acero inoxidable 304             |
+| Acabado  | Brushed Antique Brass            |
+| Texto    | `pulso` (vertical)               |
+| Técnica  | Laser engraved                   |
 
 ## Plaquita / Grabado
 
@@ -249,7 +261,7 @@ Todos los colores con acabado satinado. Los valores CMYK y Pantone son de refere
 | Brown    | `#8A5A37` | 138, 90, 55   | — *(a calcular)*  | Pantone 7572 C |
 | Lime     | `#D7DAA0` | 215, 218, 160 | — *(a calcular)*  | Pantone 5803 C |
 | Burgundy | `#6D2E32` | 109, 46, 50   | — *(a calcular)*  | Pantone 490 C  |
-| Hardware | `#B7B8BA` | 183, 184, 186 | — *(a calcular)*  | — *(a definir)* |
+| Hardware | Antique Brass | —           | — *(a calcular)*  | — *(a definir)* |
 
 > **Pendiente:** agregar muestras visuales de color en el documento final (swatches grandes).
 
@@ -264,8 +276,9 @@ Todos los colores con acabado satinado. Los valores CMYK y Pantone son de refere
 | Spray      | Aluminium               | Brushed        |
 | Pump       | PP (Polypropylene)      | Natural        |
 | Dip Tube   | PE (Polyethylene)       | Clear          |
-| Carabiner  | Stainless Steel 304     | Brushed Silver |
-| Ring       | Stainless Steel 304     | Brushed Silver |
+| Carabiner  | Stainless Steel 304     | Brushed Antique Brass |
+| Ring       | Stainless Steel 304     | Brushed Antique Brass |
+| Logo Plate | Stainless Steel 304     | Brushed Antique Brass |
 
 ---
 
@@ -331,4 +344,4 @@ Este documento es el punto de partida. Para cerrar la ficha técnica maestra com
 
 ---
 
-*v1.0 — Julio 2026 · Eme & Bianca · Generado con Claude*
+*v1.1 — Julio 2026 · Eme & Bianca · Generado con Claude*
