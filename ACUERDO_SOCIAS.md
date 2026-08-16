@@ -9,7 +9,7 @@
 
 ## PARTES
 
-**Martina María Errea** (DNI: [____]) — en adelante **"Eme"**
+**Martina María Errea** (DNI: 39.656.014) — en adelante **"Eme"**
 Domicilio: [____]
 CUIL: [____]
 
@@ -48,14 +48,13 @@ Esta distribución igualitaria refleja el carácter cofundador de ambas partes, 
 
 Cada Socia aporta al Negocio los siguientes montos y/o recursos:
 
-| Socia | Aporte monetario | Aporte en especie / trabajo | Total equivalente |
-|-------|-----------------|----------------------------|-------------------|
-| Eme | USD [____] | [trabajo de producto, gestión, Claude] | USD [____] |
-| Bianca | USD [____] | [____] | USD [____] |
+| Socia | Aporte monetario |
+|-------|-----------------|
+| Eme | **USD 700** |
+| Bianca | **USD 700** |
+| **Total** | **USD 1.400** |
 
-Los aportes realizados hasta la fecha de firma son:
-- [Detallar: ej. "Diseño industrial Facu: USD 1.600 — aportado por [____]"]
-- [Detallar: ej. "Dominio, cuentas, herramientas: USD [____] — aportado por [____]"]
+Ambas Socias aportan el mismo monto en efectivo. Los aportes son iguales y no generan desequilibrio entre las partes.
 
 ### 3.2 Desequilibrio en aportes iniciales
 
@@ -119,7 +118,7 @@ Las ganancias netas (después de costos operativos, impuestos y reservas) se dis
 
 - Las distribuciones se realizan **[mensualmente / trimestralmente / según lo acuerden]**, previa revisión del estado financiero.
 - Ambas Socias deben aprobar cada distribución.
-- Se mantiene una **reserva operativa mínima de USD [____]** en caja antes de distribuir.
+- Se mantiene una **reserva operativa mínima de USD 500** en caja antes de distribuir. Este monto puede ajustarse por acuerdo escrito de ambas Socias si las necesidades del Negocio lo requieren.
 
 ### 6.4 Reinversión
 
@@ -256,7 +255,7 @@ Si la mediación fracasa, el conflicto se resuelve ante los **Tribunales Ordinar
 
 ## 13. NO COMPETENCIA
 
-Durante la vigencia de este acuerdo, y por **[12 / 18 / 24] meses** después de su finalización, ninguna Socia puede:
+Durante la vigencia de este acuerdo, y por **12 meses** después de su finalización, ninguna Socia puede:
 
 1. Lanzar, participar o invertir en una marca de perfumes con propuesta similar a PULSO (perfume como accesorio portátil) en Argentina.
 2. Contactar o intentar captar a los proveedores, diseñadores o colaboradores del Negocio para un proyecto competidor.
@@ -325,15 +324,19 @@ Registro Nº: [____]
 ## APÉNDICE — CHECKLIST ANTES DE FIRMAR
 
 **Decisiones ya tomadas:**
-- [x] Participaciones: **50/50** — igual capital e igual dedicación
+- [x] Participaciones: **50/50**
+- [x] Inversión inicial: **USD 700 cada una** (total USD 1.400)
+- [x] Gestión: todas las decisiones conjuntas, sin roles fijos ni límites de gasto individual
 - [x] Derecho de preferencia: la otra socia siempre tiene prioridad de compra
-- [x] Fórmula de valuación: inversión × 2 (pre-revenue) / ventas × 2,5 (post-revenue), con piso de inversión acreditada
+- [x] Fórmula de valuación: inversión × 2 (pre-revenue) / ventas × 2,5 (post-revenue), piso de inversión acreditada
+- [x] Reserva mínima en caja: **USD 500** antes de distribuir ganancias
+- [x] No competencia post-salida: **12 meses**
+- [x] DNI Eme: 39.656.014
 
-**Pendiente de completar:**
-- [ ] Datos personales: DNI, CUIL, domicilios de ambas socias
-- [ ] Documentar aportes iniciales de cada una (quién pagó qué hasta la fecha de firma)
-- [ ] Definir reserva mínima de caja antes de distribuir ganancias (Cláusula 6.3)
-- [ ] Definir plazo de no competencia post-salida: 12, 18 o 24 meses (Cláusula 13)
+**Pendiente de completar (solo datos personales):**
+- [ ] CUIL de Eme
+- [ ] Domicilio de Eme
+- [ ] Apellido, DNI, CUIL y domicilio de Bianca
 - [ ] Fecha de firma
 
 **Acciones legales:**
