@@ -55,10 +55,11 @@
 
 Cuando haya 3–4 candidatas, hacer una tabla comparativa:
 
-| Fuente | Feel | Legibilidad chica | Funciona debossed | ¿Es nuestra? |
-|--------|------|------------------|-------------------|--------------|
-| Zodiak Black | editorial/moda | media | sí | ? |
-| [siguiente] | | | | |
+| Fuente | Feel | Legibilidad chica | ¿Es nuestra? |
+|--------|------|------------------|--------------|
+| Zodiak Extrabold | editorial/moda | media | ? |
+| Cabinet Grotesk Extrabold | beauty premium | buena | ? |
+| [siguiente] | | | |
 
 ---
 
