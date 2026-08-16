@@ -78,27 +78,18 @@ El ingreso de un inversor externo al Negocio requiere **acuerdo unánime** de la
 
 ## 4. ROLES Y RESPONSABILIDADES
 
-Las Socias acuerdan la siguiente división de trabajo inicial:
+En la etapa actual del Negocio, ambas Socias gestionan todas las áreas de forma conjunta. No se establecen roles fijos ni responsables únicas por área.
 
-| Área | Responsable principal | Descripción |
-|------|----------------------|-------------|
-| Producto y desarrollo | Eme | Gestión del diseñador industrial (Facu), specs, proveedores, control de calidad |
-| Operaciones y logística | [A definir] | Envíos, stock, relación con fabricantes |
-| Finanzas y administración | [A definir] | Cuentas, pagos, AFIP, facturación |
-| Contenido y redes sociales | [A definir] | Instagram, TikTok, contenido de marca |
-| Ventas y relaciones comerciales | [A definir] | Revendedores, canales, B2B |
-| Fragancias | Bianca + Eme | Definición olfativa con Joaquín |
+Las Socias acuerdan revisar esta dinámica cuando el volumen operativo lo requiera, y en ese momento podrán acordar por escrito una división de responsabilidades. Ese acuerdo se incorporará como apéndice a este documento.
 
-> *Completar y ajustar esta tabla antes de firmar. Las responsabilidades pueden solaparse — lo importante es que haya una referente por área.*
-
-Cada Socia se compromete a dedicar al Negocio un mínimo de **[____] horas semanales** durante la etapa de lanzamiento (primeros 12 meses).
+Cada Socia se compromete a participar activamente en el Negocio de buena fe y con dedicación razonable según la etapa del proyecto.
 
 ---
 
 ## 5. TOMA DE DECISIONES
 
 ### 5.1 Decisiones autónomas
-Cada Socia puede tomar de forma independiente decisiones operativas del día a día dentro de su área de responsabilidad, hasta un gasto de **USD [____] por operación**.
+Cada Socia puede tomar de forma independiente decisiones operativas del día a día hasta un gasto de **USD [____] por operación**, sin necesidad de consultar a la otra. Por encima de ese monto, se requiere acuerdo de ambas.
 
 ### 5.2 Decisiones que requieren acuerdo de ambas (mayoría simple = 100% porque son dos)
 
@@ -351,7 +342,6 @@ Registro Nº: [____]
 **Pendiente de completar:**
 - [ ] Datos personales: DNI, CUIL, domicilios de ambas socias
 - [ ] Documentar aportes iniciales de cada una (quién pagó qué hasta la fecha)
-- [ ] Acordar roles y áreas de responsabilidad (Cláusula 4)
 - [ ] Definir umbral de gasto autónomo en USD (Cláusula 5.1)
 - [ ] Definir reserva mínima de caja antes de distribuir ganancias (Cláusula 6.3)
 - [ ] Definir plazo de no competencia post-salida: 12, 18 o 24 meses (Cláusula 13)
