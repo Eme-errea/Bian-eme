@@ -11,7 +11,7 @@
 
 **Martina María Errea** (DNI: 39.656.014) — en adelante **"Eme"**
 Domicilio: [____]
-CUIL: [____]
+CUIL: 27-39656014-9
 
 **Bianca [Apellido]** (DNI: [____]) — en adelante **"Bianca"**
 Domicilio: [____]
@@ -331,10 +331,10 @@ Registro Nº: [____]
 - [x] Fórmula de valuación: inversión × 2 (pre-revenue) / ventas × 2,5 (post-revenue), piso de inversión acreditada
 - [x] Reserva mínima en caja: **USD 500** antes de distribuir ganancias
 - [x] No competencia post-salida: **12 meses**
-- [x] DNI Eme: 39.656.014
+- [x] DNI Eme: 39.656.014 · CUIL: 27-39656014-9
 
 **Pendiente de completar (solo datos personales):**
-- [ ] CUIL de Eme
+- [x] CUIL de Eme: 27-39656014-9
 - [ ] Domicilio de Eme
 - [ ] Apellido, DNI, CUIL y domicilio de Bianca
 - [ ] Fecha de firma
