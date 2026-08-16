@@ -250,7 +250,7 @@ El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad 
 
 ## Tipografía
 
-**Syne ExtraBold** · wordmark `pulso` en minúsculas · sans-serif geométrica redondeada.
+**WIP — en exploración.** Wordmark `pulso` en minúsculas. Tipografía a definir.
 
 ## Acabado
 
