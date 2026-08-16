@@ -236,25 +236,20 @@ El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad 
 
 ---
 
-# 9. BRANDING — INNEGOCIABLE
+# 9. BRANDING EN EL FRASCO — WIP
 
-## Logo en frasco
+**A definir con Facu en Etapa 1.** Todavía no está decidido si el frasco va a tener algún tipo de identificación de marca, ni de qué forma. Las opciones posibles son:
 
-| Atributo    | Especificación                             |
-| ----------- | ------------------------------------------ |
-| Ubicación   | Centro inferior del cuerpo                 |
-| Distancia   | 12 mm desde la base                        |
-| Ancho       | ≈18% del ancho del frasco                  |
-| Profundidad | ≈0.5–0.7 mm                               |
-| Técnica     | **Debossed** (no impreso, no embossed, no sticker) |
+- Debossed (grabado en el material)
+- Logo plate / plaquita de metal aplicada
+- Sin branding en el frasco (logo solo en packaging / digital)
+- Otra técnica que Facu proponga según el material elegido
 
-## Tipografía
+> Todo lo relacionado con branding físico en el frasco depende primero de la definición de material y forma con Facu.
 
-**WIP — en exploración.** Wordmark `pulso` en minúsculas. Tipografía a definir.
+## Tipografía del logo
 
-## Acabado
-
-Debossed sobre cerámica. Sin pintura ni color adicional.
+**WIP — en exploración.** Ver [LOGO_EXPLORACION.md](LOGO_EXPLORACION.md). Wordmark `pulso` en minúsculas. Tipografía a definir.
 
 ---
 
