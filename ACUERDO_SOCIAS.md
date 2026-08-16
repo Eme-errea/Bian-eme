@@ -88,19 +88,9 @@ Cada Socia se compromete a participar activamente en el Negocio de buena fe y co
 
 ## 5. TOMA DE DECISIONES
 
-### 5.1 Decisiones autónomas
-Cada Socia puede tomar de forma independiente decisiones operativas del día a día hasta un gasto de **USD [____] por operación**, sin necesidad de consultar a la otra. Por encima de ese monto, se requiere acuerdo de ambas.
+Las Socias gestionan el Negocio de forma conjunta y toman todas las decisiones operativas de común acuerdo. No se establecen límites de gasto individual ni áreas de autonomía unilateral en esta etapa.
 
-### 5.2 Decisiones que requieren acuerdo de ambas (mayoría simple = 100% porque son dos)
-
-- Gastos mayores a USD [____]
-- Contratación de proveedores o servicios recurrentes
-- Cambios en el producto (forma, material, colores)
-- Apertura de nuevos canales de venta
-- Acuerdos comerciales con terceros
-- Publicación de contenido sensible o que comprometa a la marca
-
-### 5.3 Decisiones que requieren acuerdo unánime y documento escrito
+### 5.1 Decisiones que requieren acuerdo escrito de ambas
 
 - Cambio en las participaciones de las Socias
 - Incorporación de nuevos socios o inversores
@@ -109,7 +99,7 @@ Cada Socia puede tomar de forma independiente decisiones operativas del día a d
 - Disolución del Negocio
 - Modificación de este acuerdo
 
-### 5.4 Deadlock (desacuerdo sin resolución)
+### 5.2 Deadlock (desacuerdo sin resolución)
 
 Si las Socias no llegan a un acuerdo en una decisión que lo requiere, dentro de **30 días corridos**, se activa el proceso de resolución de conflictos (ver Cláusula 12).
 
@@ -341,8 +331,7 @@ Registro Nº: [____]
 
 **Pendiente de completar:**
 - [ ] Datos personales: DNI, CUIL, domicilios de ambas socias
-- [ ] Documentar aportes iniciales de cada una (quién pagó qué hasta la fecha)
-- [ ] Definir umbral de gasto autónomo en USD (Cláusula 5.1)
+- [ ] Documentar aportes iniciales de cada una (quién pagó qué hasta la fecha de firma)
 - [ ] Definir reserva mínima de caja antes de distribuir ganancias (Cláusula 6.3)
 - [ ] Definir plazo de no competencia post-salida: 12, 18 o 24 meses (Cláusula 13)
 - [ ] Fecha de firma
