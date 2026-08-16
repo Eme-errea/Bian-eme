@@ -25,12 +25,26 @@
 
 ---
 
+## Descartadas
+
+- **PP Neue Montreal** — demasiado genérica, la usa todo el mundo, le falta carácter propio
+
+---
+
 ## Pendiente de explorar
 
-- Satoshi (fontshare.com) — grotesca limpia, cercana a REFY
-- Cabinet Grotesk (fontshare.com) — más carácter que Satoshi
-- PP Neue Montreal (pptype.com) — muy usada en marcas DTC de moda/belleza
-- Monument Grotesk (abcdinamo.com) — más fashion/editorial, sans
+**Links principales:**
+- [pangrampangram.com](https://pangrampangram.com) — Zodiak (ya vista) + otras. En el preview escribir "pulso".
+- [fontshare.com](https://fontshare.com) — fuentes gratuitas de calidad profesional
+- [abcdinamo.com](https://abcdinamo.com) — más editorial/experimental
+
+**Fuentes a mirar:**
+- **Satoshi** (fontshare.com) — grotesca limpia, cercana a REFY
+- **Cabinet Grotesk** (fontshare.com) — más carácter que Satoshi
+- **Monument Grotesk** (abcdinamo.com) — muy fashion/editorial, sans
+- **Editorial New** (pangram pangram) — serif editorial, diferente a Zodiak
+- **Tan Nimbus** (pangrampangram.com) — serif con mucho peso, interesante
+- **Chillax** (fontshare.com) — geométrica con personalidad
 
 ---
 
