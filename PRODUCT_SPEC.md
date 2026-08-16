@@ -1,8 +1,8 @@
 # PULSO — MASTER PRODUCT SPECIFICATION
 
-**Version 1.1** · Julio 2026 · Eme & Bianca
+**Version 1.2** · Agosto 2026 · Eme & Bianca
 
-> Documento maestro de referencia para diseñadores industriales, modeladores 3D, proveedores y fabricantes.
+> Documento maestro de referencia para Facundo Cardozo (diseño industrial), proveedores y fabricantes.
 > A partir de este archivo, el producto no cambia de forma entre una imagen y otra.
 
 ---
@@ -27,11 +27,11 @@ Vista explotada con las siguientes partes numeradas:
    ↓
 2. Argolla / Aro conector (Ring)
    ↓
-3. Tapa (Cap) — vidrio esmerilado
+3. Tapa (Cap)
    ↓
 4. Cuello roscado + Rosca (Bottle neck + Thread) — unión tapa–cuerpo
    ↓
-5. Envase (Bottle) — vidrio esmerilado
+5. Envase (Bottle) — cerámica
       ↓ [interior]
 6. Spray actuator
       ↓
@@ -40,7 +40,7 @@ Vista explotada con las siguientes partes numeradas:
 8. Tubo dip (Dip tube)
 ```
 
-> **Pendiente:** renderizar vista explotada técnica con Keyshot / Blender / SolidWorks.
+> **Pendiente:** renderizar vista explotada técnica con Facu (Keyshot / Blender / SolidWorks).
 
 ---
 
@@ -50,10 +50,10 @@ Vista explotada con las siguientes partes numeradas:
 
 | Feature        | Specification |
 | -------------- | ------------- |
-| Total Height   | 88 mm         |
+| Total Height   | 88 mm (a confirmar con Facu) |
 | Body Height    | 68 mm         |
 | Cap Height     | 20 mm         |
-| Max Width      | 42 mm         |
+| Max Width      | 42 mm (a confirmar con Facu) |
 | Max Depth      | 32 mm         |
 | Body/Cap Ratio | 77% / 23%     |
 | Weight (aprox.)| 108 g         |
@@ -64,9 +64,9 @@ Vista explotada con las siguientes partes numeradas:
 - **Vista lateral**
 - **Vista superior**
 - **Vista inferior**
-- **Corte (Section View)** — para entender espesores de vidrio y mecanismo interno
+- **Corte (Section View)** — para entender espesores y mecanismo interno
 
-> **Pendiente:** generar planos técnicos 2D con software CAD o con asistencia de diseñador industrial.
+> **Pendiente:** Facu genera los planos técnicos 2D en Etapa 3.
 
 ---
 
@@ -74,21 +74,21 @@ Vista explotada con las siguientes partes numeradas:
 
 ## Forma general
 
-**Organic Pebble** — sin caras planas, sin líneas rectas, sin cilindro geométrico. Curvatura continua y suave en toda la superficie.
+**Organic Pebble** — sin caras planas, sin líneas rectas, sin cilindro geométrico. Curvatura continua y suave en toda la superficie. El objeto tiene que verse hecho a mano aunque no lo sea.
 
 ## Superficie
 
 Soft continuous curvature. Sin texturas, sin orange peel, sin grano. Micro satin perfectamente liso.
 
-## Indentaciones
+## Indentaciones — INNEGOCIABLES
 
 ### Izquierda
 
 | Atributo   | Valor                            |
 | ---------- | -------------------------------- |
 | Posición   | 35% desde la base                |
-| Profundidad | — *(a relevar)*                 |
-| Radio      | — *(a relevar)*                  |
+| Profundidad | — *(a relevar con Facu)*        |
+| Radio      | — *(a relevar con Facu)*         |
 | Forma      | Depresión elíptica amplia, bordes suaves |
 
 ### Derecha
@@ -96,9 +96,11 @@ Soft continuous curvature. Sin texturas, sin orange peel, sin grano. Micro satin
 | Atributo   | Valor                                  |
 | ---------- | -------------------------------------- |
 | Posición   | 18% desde la base                      |
-| Profundidad | — *(a relevar)*                       |
-| Radio      | — *(a relevar)*                        |
-| Forma      | Depresión orgánica vertical, más pequeña |
+| Profundidad | — *(a relevar con Facu)*              |
+| Radio      | — *(a relevar con Facu)*               |
+| Forma      | Depresión orgánica vertical, más pequeña y alargada |
+
+> Las dos indentaciones son parte de la identidad del objeto y del grip. No son decorativas.
 
 ## Base
 
@@ -106,7 +108,7 @@ Superficie plana de estabilidad. Perímetro redondeado. Radio ≈ 6 mm.
 
 ## Material
 
-Premium Frosted Glass
+**Cerámica** — glazed, satinado semi-opaco 15–20 GU. Preferencia confirmada por Uzone y adoptada en brief a Facu. Descartamos vidrio para este formato.
 
 ## Acabado
 
@@ -128,23 +130,29 @@ Semi-opaco · 15–20 GU Satin (bajo brillo)
 | Altura         | ≈28% del ancho            |
 | Radio de borde | ≈12 mm                    |
 
-## Rosca interna
+## Cierre
+
+**En definición con Facu (Etapa 1).** Dirección probable: tapa con refuerzo interno para garantizar hermetismo ante caídas, dado que el frasco vive colgado y en movimiento. El carabiner va en la tapa — la argolla debe aguantar el peso del frasco lleno.
+
+## Rosca interna (referencia)
 
 | Atributo            | Valor              |
 | ------------------- | ------------------ |
 | Tipo                | Standard fine thread |
 | Diámetro de cuello  | 15.8 mm            |
 | Altura de cuello    | 11.2 mm            |
-| Paso                | — *(a definir)*    |
-| Cantidad de vueltas | — *(a definir)*    |
+| Paso                | — *(a definir con Facu)* |
+| Cantidad de vueltas | — *(a definir con Facu)* |
 
 ## Material
 
-Mismo vidrio esmerilado que el cuerpo del frasco.
+Misma cerámica que el cuerpo del frasco.
 
 ---
 
-# 6. SPRAY MECHANISM
+# 6. SPRAY MECHANISM — INNEGOCIABLE
+
+El frasco tiene que poder usarse con spray. No es un roll-on ni un tapón simple.
 
 ## Flujo de componentes
 
@@ -160,6 +168,8 @@ Spray actuator
     Frasco (Bottle)
 ```
 
+El actuator queda oculto dentro de la tapa cuando está cerrada.
+
 ## Especificaciones
 
 | Componente     | Material  | Detalle                        | Proveedor       |
@@ -169,7 +179,7 @@ Spray actuator
 | Bomba (Pump)   | PP        | High quality pump              | — *(a definir)* |
 | Tubo dip       | PE        | Clear                          | — *(a definir)* |
 
-> **Pendiente:** relevar proveedor de spray mechanism compatible con frasco 15 ml. Ver Alibaba / Intertek / proveedores cosméticos.
+> **Pregunta abierta con Uzone:** ¿puede la tapa roscar Y alojar el spray interno (como cierre CK The One)?
 
 ---
 
@@ -179,22 +189,24 @@ Spray actuator
 
 | Atributo           | Valor           |
 | ------------------ | --------------- |
-| Tipo de rosca      | — *(a definir)* |
+| Tipo de rosca      | — *(a definir con Facu)* |
 | Número de entradas | — *(a definir)* |
 | Sentido            | — *(a definir)* |
 | Paso               | — *(a definir)* |
 
-> **Pendiente:** incluir detalle ampliado en plano técnico. La rosca es crítica para la hermeticidad y el feel de cierre.
+> La rosca es crítica para la hermeticidad. El frasco vive colgado — no puede soltar líquido.
 
 ---
 
-# 8. HARDWARE
+# 8. HARDWARE — INNEGOCIABLE
+
+El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad de marca.
 
 ## Mosquetón (Carabiner)
 
 | Atributo  | Especificación                                    |
 | --------- | ------------------------------------------------- |
-| Forma     | Mosquetón moderno con inspiración en la letra "P" |
+| Forma     | Inspirada en la letra "P" |
 | Material  | Acero inoxidable 304                              |
 | Acabado   | Brushed Antique Brass                             |
 | Espesor   | ≈5 mm                                             |
@@ -209,7 +221,7 @@ Spray actuator
 | Material | Acero inoxidable 304                       |
 | Acabado  | Brushed Antique Brass                      |
 | Diámetro | ≈8 mm                                      |
-| Posición | Centrada en el lado derecho de la tapa     |
+| Posición | **Centrada en el lado derecho de la tapa** (no en el cuerpo) |
 
 ## Logo Plate
 
@@ -220,17 +232,9 @@ Spray actuator
 | Texto    | `pulso` (vertical)               |
 | Técnica  | Laser engraved                   |
 
-## Plaquita / Grabado
-
-| Atributo | Especificación     |
-| -------- | ------------------ |
-| Texto    | `pulso`            |
-| Posición | Vertical           |
-| Técnica  | Laser engraved     |
-
 ---
 
-# 9. BRANDING
+# 9. BRANDING — INNEGOCIABLE
 
 ## Logo en frasco
 
@@ -240,7 +244,7 @@ Spray actuator
 | Distancia   | 12 mm desde la base                        |
 | Ancho       | ≈18% del ancho del frasco                  |
 | Profundidad | ≈0.5–0.7 mm                               |
-| Técnica     | Debossed (no impreso, no embossed)         |
+| Técnica     | **Debossed** (no impreso, no embossed, no sticker) |
 
 ## Tipografía
 
@@ -248,22 +252,22 @@ Spray actuator
 
 ## Acabado
 
-Debossed sobre vidrio esmerilado. Sin pintura ni color adicional.
+Debossed sobre cerámica. Sin pintura ni color adicional.
 
 ---
 
 # 10. COLOR SPECIFICATION
 
-Todos los colores con acabado satinado. Los valores CMYK y Pantone son de referencia — validar con colorímetro en producción.
+Todos los colores con acabado satinado semi-opaco (15–20 GU). Los valores Pantone son de referencia — validar con colorímetro en producción (ΔE ≤ 2).
 
-| Nombre   | HEX       | RGB           | CMYK              | Pantone        |
-| -------- | --------- | ------------- | ----------------- | -------------- |
-| Brown    | `#8A5A37` | 138, 90, 55   | — *(a calcular)*  | Pantone 7572 C |
-| Lime     | `#D7DAA0` | 215, 218, 160 | — *(a calcular)*  | Pantone 5803 C |
-| Burgundy | `#6D2E32` | 109, 46, 50   | — *(a calcular)*  | Pantone 490 C  |
-| Hardware | Antique Brass | —           | — *(a calcular)*  | — *(a definir)* |
+| Nombre   | HEX       | RGB           | Pantone        | Tirada |
+| -------- | --------- | ------------- | -------------- | ------ |
+| **Burgundy** | `#6D2E32` | 109, 46, 50 | Pantone 490 C | **Primera tirada** |
+| Brown    | `#8A5A37` | 138, 90, 55   | Pantone 7572 C | Próxima etapa |
+| Lime     | `#D7DAA0` | 215, 218, 160 | Pantone 5803 C | Próxima etapa |
+| Hardware | Antique Brass | —           | — *(a definir con Facu)* | — |
 
-> **Pendiente:** agregar muestras visuales de color en el documento final (swatches grandes).
+> **Primera tirada:** solo Burgundy para mantener el MOQ manejable al lanzamiento.
 
 ---
 
@@ -271,8 +275,8 @@ Todos los colores con acabado satinado. Los valores CMYK y Pantone son de refere
 
 | Parte      | Material                | Finish         |
 | ---------- | ----------------------- | -------------- |
-| Bottle     | Frosted Glass           | Satin 15–20 GU |
-| Cap        | Frosted Glass           | Satin 15–20 GU |
+| Bottle     | Cerámica (glazed)       | Satin 15–20 GU |
+| Cap        | Cerámica (glazed)       | Satin 15–20 GU |
 | Spray      | Aluminium               | Brushed        |
 | Pump       | PP (Polypropylene)      | Natural        |
 | Dip Tube   | PE (Polyethylene)       | Clear          |
@@ -293,7 +297,7 @@ Secuencia de ensamblado:
        ↓
 3. Colocar spray actuator
        ↓
-4. Roscar tapa (sentido horario)
+4. Roscar tapa (sentido horario, con refuerzo interno)
        ↓
 5. Enganchar mosquetón en argolla
 ```
@@ -305,7 +309,7 @@ Secuencia de ensamblado:
 | Test                   | Criterio de aprobación    |
 | ---------------------- | ------------------------- |
 | Leak Test              | 0 goteo en 24h / 48h      |
-| Drop Test              | — *(a definir altura)*    |
+| Drop Test              | — *(a definir con Facu)*  |
 | Thread Torque          | — *(a definir Nm)*        |
 | Spray Test             | Atomización uniforme      |
 | Finish Inspection      | Sin imperfecciones visibles al ojo |
@@ -314,34 +318,33 @@ Secuencia de ensamblado:
 
 ---
 
-# 14. PACKAGING
+# 14. PACKAGING DE PRESENTACIÓN
 
 | Elemento    | Especificación          |
 | ----------- | ----------------------- |
 | Producto    | Frasco ensamblado       |
-| Caja        | — *(a definir)*         |
+| Caja        | Evaluar MOSH® Micelio (packaging sustentable de hongos) — pendiente decisión con Bianca |
 | Inserto     | — *(a definir)*         |
 | Protección  | — *(a definir)*         |
 | Código SKU  | — *(a definir)*         |
-| Código color | — *(a definir)*        |
-
-> Opción a evaluar: [MOSH® Micelio](https://www.instagram.com/mosh.micelio/) — packaging sustentable de hongos, alineado con la estética orgánica de PULSO.
 
 ---
 
-## Próximos pasos
+# 15. DISEÑO INDUSTRIAL — FACU
 
-Este documento es el punto de partida. Para cerrar la ficha técnica maestra completa (12–15 páginas estilo Apple / cosmética premium), faltan:
+Este documento es la base de trabajo para Facundo Cardozo (diseño industrial). Ver [CONTRATOS.md](CONTRATOS.md) para el acuerdo completo.
 
-- [ ] Relevar y confirmar todas las medidas exactas
-- [ ] Generar planos técnicos 2D (CAD) con cotas completas
+**Objetivo final:** archivos listos para enviar a fabricantes en China (Uzone / Apogee) y eventualmente Italia.
+
+**Pendientes críticos para Facu:**
+- [ ] Validar y cerrar dimensiones exactas (alto, ancho, radios de indentaciones)
+- [ ] Definir mecanismo de cierre (tapa con refuerzo interno + spray)
+- [ ] Generar planos técnicos 2D con cotas completas
 - [ ] Renderizar vista explotada oficial
-- [ ] Validar paleta de color con colorímetro (Pantone + RAL + HEX finales)
-- [ ] Definir proveedor de spray mechanism y validar compatibilidad
+- [ ] Validar paleta de color con colorímetro (Pantone + HEX finales)
 - [ ] Especificar tipo y paso de rosca
-- [ ] Agregar swatches de color visuales
-- [ ] Definir packaging final
+- [ ] Prototipo físico 3D en plástico escala real
 
 ---
 
-*v1.1 — Julio 2026 · Eme & Bianca · Generado con Claude*
+*v1.2 — Agosto 2026 · Eme & Bianca · Con Facundo Cardozo como diseñador industrial*
