@@ -15,36 +15,39 @@
 
 ## Opciones en evaluación
 
-### Zodiak — Extrabold / Black
-**Foundry:** Pangram Pangram (pptype.com) · Variable, 12 estilos  
+### Zodiak — Extrabold
+**Foundry:** pangrampangram.com · Variable, 12 estilos  
 **Estilo:** Serif de alto contraste, muy editorial  
-**Pesos evaluados:** Extrabold, Extrabold Italic, Black  
-**Impresión:** Tiene mucho carácter. Va en contra de las referencias (Rhode/REFY son sans) pero eso puede ser el diferencial. La "p" y la "o" conectan con la forma orgánica del frasco. El Black funciona bien para debossed.  
-**Duda:** ¿demasiado editorial/moda vs. beauty minimalista? Hay que compararla contra una sans limpia.  
-**Estado:** 👀 Candidata — seguir evaluando
+**Impresión:** Tiene carácter propio. Inesperada para el rubro. La "p" y la "o" conectan con la forma del frasco.  
+**Estado:** 👀 Candidata
+
+### Cabinet Grotesk — Extrabold
+**Foundry:** fontshare.com · Gratis  
+**Estilo:** Grotesca geométrica, limpia, peso fuerte  
+**Impresión:** Más alineada con Rhode/REFY. El Black es demasiado pesado, el Extrabold tiene buen equilibrio.  
+**Estado:** 👀 Candidata
 
 ---
 
 ## Descartadas
 
-- **PP Neue Montreal** — demasiado genérica, la usa todo el mundo, le falta carácter propio
+- **PP Neue Montreal** — demasiado genérica, la usa todo el mundo
+- **Monument Grotesk** — no genera conexión
+- **Cabinet Grotesk Black** — demasiado saturada, pierde elegancia
 
 ---
 
 ## Pendiente de explorar
 
-**Links principales:**
-- [pangrampangram.com](https://pangrampangram.com) — Zodiak (ya vista) + otras. En el preview escribir "pulso".
-- [fontshare.com](https://fontshare.com) — fuentes gratuitas de calidad profesional
-- [abcdinamo.com](https://abcdinamo.com) — más editorial/experimental
+**Links:**
+- [pangrampangram.com](https://pangrampangram.com) — escribir "pulso" en el preview
+- [fontshare.com](https://fontshare.com) — gratuitas, calidad profesional
 
-**Fuentes a mirar:**
-- **Satoshi** (fontshare.com) — grotesca limpia, cercana a REFY
-- **Cabinet Grotesk** (fontshare.com) — más carácter que Satoshi
-- **Monument Grotesk** (abcdinamo.com) — muy fashion/editorial, sans
-- **Editorial New** (pangram pangram) — serif editorial, diferente a Zodiak
-- **Tan Nimbus** (pangrampangram.com) — serif con mucho peso, interesante
-- **Chillax** (fontshare.com) — geométrica con personalidad
+**Fuentes que faltan ver:**
+- **Clash Display** (fontshare.com) — geométrica con personalidad, más quirky
+- **Editorial New** (pangrampangram.com) — serif diferente a Zodiak, más delicada
+- **Tan Nimbus** (pangrampangram.com) — serif ultra pesada, muy gráfica
+- **Chillax** (fontshare.com) — geométrica, tiene algo distinto
 
 ---
 
