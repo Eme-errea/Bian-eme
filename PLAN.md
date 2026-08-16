@@ -45,12 +45,12 @@
 
 ### Diseño industrial — Facundo Cardozo
 
-- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: forma organic pebble, mecanismo spray, hardware antique brass, logo debossed, 3 colores de marca.
+- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: forma organic pebble, mecanismo spray, hardware antique brass, 3 colores de marca. Branding en el frasco (debossed u otra técnica) a definir con Facu en Etapa 1.
 - [x] **Presupuesto acordado** — USD 1.600 total. Anticipo 30% (USD 480). Ver [CONTRATOS.md](CONTRATOS.md).
 - [ ] **Etapa 1 — Revisión conceptual** (20% = USD 320) — análisis de la propuesta, puntos fuertes y débiles, factibilidad productiva, materiales y tecnologías.
 - [ ] **Etapa 2 — Desarrollo y definición** (20% = USD 320) — modelado 3D + impresiones para validar forma. Incluye 2 rondas de revisión.
 - [ ] **Etapa 3 — Documentación técnica** (30% = USD 480) — modelo 3D en STEP para fábrica, planos técnicos 2D, CMF, renders.
-- [ ] **Prototipo físico** — 1 unidad en plástico, escala real, con logo debossed y sistema argolla/tapa. Para validar y llevar al proveedor.
+- [ ] **Prototipo físico** — 1 unidad en plástico, escala real. Detalles de branding en el frasco a definir con Facu.
 
 ### Fragancias
 
