@@ -38,9 +38,7 @@ Las Socias acuerdan las siguientes participaciones sobre el Negocio:
 | Eme | **50%** |
 | Bianca | **50%** |
 
-Esta distribución igualitaria refleja el carácter cofundador de ambas partes y su igual compromiso con el proyecto. Cualquier modificación requiere acuerdo unánime por escrito.
-
-> *Alternativa a evaluar con el abogado: si una socia aporta significativamente más capital o trabajo en la etapa inicial, podría acordarse una participación diferente (ej. 60/40). Definir esto antes de firmar.*
+Esta distribución igualitaria refleja el carácter cofundador de ambas partes, su igual inversión de capital y su igual dedicación al proyecto. Cualquier modificación requiere acuerdo unánime por escrito.
 
 ---
 
@@ -191,9 +189,26 @@ La Socia que desee salir del Negocio debe comunicarlo con **90 días de anticipa
 La Socia que queda tiene las siguientes opciones (a elegir dentro de los 30 días de recibida la notificación):
 
 **A) Comprar la participación de la que sale**
-- Precio = valuación del Negocio acordada entre las partes, o determinada por un valuador independiente si no hay acuerdo.
-- Fórmula de valuación sugerida: [múltiplo de ventas / EBITDA / valor de activos — a definir con el abogado].
-- Pago: [al contado / en cuotas en X meses].
+
+El precio de la participación (50%) se determina aplicando la siguiente fórmula según el momento del Negocio:
+
+**Etapa 1 — Antes de 18 meses de ventas consolidadas:**
+> Valor total del Negocio = Inversión total acreditada de ambas Socias × 2
+> Precio del 50% = Valor total ÷ 2
+
+*Ejemplo: si juntas invirtieron USD 10.000, el Negocio vale USD 20.000. Comprar el 50% cuesta USD 10.000.*
+
+**Etapa 2 — A partir de 18 meses de ventas o antes si ambas acuerdan:**
+> Valor total del Negocio = Ventas netas de los últimos 12 meses × 2,5
+> Precio del 50% = Valor total ÷ 2
+
+*Ejemplo: si Pulso vendió USD 40.000 el último año, el Negocio vale USD 100.000. Comprar el 50% cuesta USD 50.000.*
+
+**Piso absoluto:** el precio de compra nunca puede ser inferior a la inversión total acreditada de la Socia que vende. Nadie sale perdiendo lo que puso.
+
+**Si no hay acuerdo sobre el valor:** un Contador Público independiente designado de común acuerdo realiza la valuación. Si no hay acuerdo sobre el valuador, lo designa el Consejo Profesional de Ciencias Económicas de CABA. El costo del valuador se divide al 50%. Su dictamen es vinculante.
+
+**Forma de pago:** al contado en un plazo máximo de **90 días corridos** desde la notificación de salida, salvo acuerdo expreso de pago en cuotas.
 
 **B) Disolver el Negocio**
 - Si la Socia que queda no puede o no quiere comprar la participación, se disuelve el Negocio.
@@ -219,8 +234,8 @@ La venta total del Negocio o de la marca PULSO requiere **acuerdo unánime** de 
 
 Si una Socia recibe una oferta de compra por el 100% del Negocio y quiere vender, puede **obligar a la otra Socia a vender también** en las mismas condiciones, siempre que:
 - La oferta sea de un tercero de buena fe.
-- El precio sea mayor a [USD X / múltiplo Y de ventas anuales — a definir].
-- La otra Socia haya rechazado previamente la oferta.
+- El precio total ofrecido sea mayor al valor calculado con la fórmula de la Cláusula 9.2 (Etapa 1 o 2 según corresponda al momento).
+- La otra Socia haya tenido 30 días para ejercer su derecho de preferencia y haya declinado.
 
 ### 10.3 Tag-along (acompañamiento)
 
@@ -328,13 +343,21 @@ Registro Nº: [____]
 
 ## APÉNDICE — CHECKLIST ANTES DE FIRMAR
 
-- [ ] Completar todos los campos con [____]
-- [ ] Definir participaciones (50/50 u otro)
-- [ ] Documentar aportes iniciales de cada una
-- [ ] Acordar roles y horas de dedicación
-- [ ] Definir umbral de gasto autónomo (Cláusula 5.1)
-- [ ] Definir reserva mínima de caja antes de distribuir
-- [ ] Acordar fórmula de valuación para buyout
-- [ ] Registrar marca PULSO en INPI
+**Decisiones ya tomadas:**
+- [x] Participaciones: **50/50** — igual capital e igual dedicación
+- [x] Derecho de preferencia: la otra socia siempre tiene prioridad de compra
+- [x] Fórmula de valuación: inversión × 2 (pre-revenue) / ventas × 2,5 (post-revenue), con piso de inversión acreditada
+
+**Pendiente de completar:**
+- [ ] Datos personales: DNI, CUIL, domicilios de ambas socias
+- [ ] Documentar aportes iniciales de cada una (quién pagó qué hasta la fecha)
+- [ ] Acordar roles y áreas de responsabilidad (Cláusula 4)
+- [ ] Definir umbral de gasto autónomo en USD (Cláusula 5.1)
+- [ ] Definir reserva mínima de caja antes de distribuir ganancias (Cláusula 6.3)
+- [ ] Definir plazo de no competencia post-salida: 12, 18 o 24 meses (Cláusula 13)
+- [ ] Fecha de firma
+
+**Acciones legales:**
 - [ ] Revisar con abogado especialista en derecho comercial argentino
 - [ ] Firmar ante escribano público
+- [ ] Registrar marca **PULSO** en **INPI** — urgente, independiente del resto
