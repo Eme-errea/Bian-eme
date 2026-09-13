@@ -1,6 +1,6 @@
 # PULSO — MASTER PRODUCT SPECIFICATION
 
-**Version 1.2** · Agosto 2026 · Eme & Bianca
+**Version 1.3** · Septiembre 2026 · Eme & Bianca
 
 > Documento maestro de referencia para Facundo Cardozo (diseño industrial), proveedores y fabricantes.
 > A partir de este archivo, el producto no cambia de forma entre una imagen y otra.
@@ -12,9 +12,10 @@
 | Atributo       | Especificación                                                       |
 | -------------- | -------------------------------------------------------------------- |
 | Product Name   | PULSO Clip & Go                                                      |
-| Category       | Refillable fragrance bottle                                          |
-| Capacity       | 30 ml                                                                |
-| Concept        | Frasco de perfume recargable diseñado como bag charm de lujo cotidiano |
+| Category       | Fragrance bottle — **no recargable en el MVP** (recarga: post-MVP)   |
+| Capacity       | 20–30 ml (a definir)                                                 |
+| Formato        | **Único** — sin versión "home" aparte. Mosquetón/llavero desmontable: el mismo frasco funciona colgado o suelto |
+| Concept        | Frasco de perfume diseñado como bag charm de lujo cotidiano |
 
 ---
 
@@ -31,7 +32,7 @@ Vista explotada con las siguientes partes numeradas:
    ↓
 4. Cuello roscado + Rosca (Bottle neck + Thread) — unión tapa–cuerpo
    ↓
-5. Envase (Bottle) — cerámica
+5. Envase (Bottle) — material a definir
       ↓ [interior]
 6. Spray actuator
       ↓
@@ -74,13 +75,15 @@ Vista explotada con las siguientes partes numeradas:
 
 ## Forma general
 
-**Organic Pebble** — sin caras planas, sin líneas rectas, sin cilindro geométrico. Curvatura continua y suave en toda la superficie. El objeto tiene que verse hecho a mano aunque no lo sea.
+**A definir con Facu — todavía no está decidida.** La dirección que veníamos explorando era "Organic Pebble" (sin caras planas, sin líneas rectas, sin cilindro geométrico, curvatura continua y suave, que se vea hecho a mano aunque no lo sea), pero es una referencia de partida, no una forma cerrada. La forma final sale de la Etapa 1 de Facu.
 
 ## Superficie
 
 Soft continuous curvature. Sin texturas, sin orange peel, sin grano. Micro satin perfectamente liso.
 
 ## Indentaciones — INNEGOCIABLES
+
+> Nota: la forma general del cuerpo (arriba) todavía no está cerrada. Estas indentaciones son un requisito de identidad/grip que queremos pedir en el diseño cualquiera sea la forma final que salga de la Etapa 1 con Facu.
 
 ### Izquierda
 
@@ -134,7 +137,9 @@ Semi-opaco · 15–20 GU Satin (bajo brillo)
 
 ## Cierre
 
-**En definición con Facu (Etapa 1).** Dirección probable: tapa con refuerzo interno para garantizar hermetismo ante caídas, dado que el frasco vive colgado y en movimiento. El carabiner va en la tapa — la argolla debe aguantar el peso del frasco lleno.
+**Pedido firme para Facu (Etapa 1): tiene que ser a rosca.** Es nuestra postura, no solo "dirección probable" — el frasco vive colgado de una cartera y necesitamos esa seguridad/hermeticidad ante caídas y movimiento. El carabiner va en la tapa — la argolla debe aguantar el peso del frasco lleno.
+
+> **Punto a resolver con Facu:** el mecanismo de spray (Sección 6) es innegociable, y también queremos cierre a rosca. Uzone ya avisó que combinar spray + tapa a rosca es difícil en un frasco chico de cerámica — por eso es justamente algo para plantearle a Facu en la Etapa 1 (puede depender del material y del fabricante final).
 
 ## Rosca interna (referencia)
 
@@ -181,7 +186,7 @@ El actuator queda oculto dentro de la tapa cuando está cerrada.
 | Bomba (Pump)   | PP        | High quality pump              | — *(a definir)* |
 | Tubo dip       | PE        | Clear                          | — *(a definir)* |
 
-> **Pregunta abierta con Uzone:** ¿puede la tapa roscar Y alojar el spray interno (como cierre CK The One)?
+> **Punto a resolver con Facu (no solo con Uzone):** todavía no hay proveedor de frasco confirmado, así que esto no depende únicamente de Uzone. La pregunta de fondo sigue abierta para cualquier fabricante: ¿puede la tapa roscar Y alojar el spray interno (como cierre CK The One)? Ver también la nota de la Sección 5 sobre cierre a rosca.
 
 ---
 
@@ -200,15 +205,15 @@ El actuator queda oculto dentro de la tapa cuando está cerrada.
 
 ---
 
-# 8. HARDWARE — INNEGOCIABLE
+# 8. HARDWARE
 
-El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad de marca.
+Que haya un mosquetón/hardware visible como elemento de identidad de marca sí es un pedido firme — no un accesorio genérico. Los detalles concretos (forma, acabado, medidas) son una **propuesta a validar en el diseño con Facu**, no specs cerradas todavía.
 
-## Mosquetón (Carabiner)
+## Mosquetón (Carabiner) — propuesta, a definir en el diseño
 
-| Atributo  | Especificación                                    |
+| Atributo  | Especificación (propuesta, no cerrada)            |
 | --------- | ------------------------------------------------- |
-| Forma     | Inspirada en la letra "P" |
+| Forma     | Candidata: inspirada en la letra "P" — a definir con Facu |
 | Material  | Acero inoxidable 304                              |
 | Acabado   | Brushed Antique Brass                             |
 | Espesor   | ≈5 mm                                             |
@@ -238,14 +243,13 @@ El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad 
 
 # 9. BRANDING EN EL FRASCO — WIP
 
-**A definir con Facu en Etapa 1.** Todavía no está decidido si el frasco va a tener algún tipo de identificación de marca, ni de qué forma. Las opciones posibles son:
+**El nombre `pulso` tiene que estar en el frasco. Eso no se negocia.** Lo que sí está WIP es la técnica — todavía no decidimos cómo va a estar aplicado. Opciones en evaluación:
 
 - Debossed (grabado en el material)
 - Logo plate / plaquita de metal aplicada
-- Sin branding en el frasco (logo solo en packaging / digital)
 - Otra técnica que Facu proponga según el material elegido
 
-> Todo lo relacionado con branding físico en el frasco depende primero de la definición de material y forma con Facu.
+> Descartada la opción de "sin branding en el frasco" (logo solo en packaging/digital) — el nombre tiene que verse en el objeto físico. La técnica exacta depende de la definición de material y forma con Facu en Etapa 1.
 
 ## Tipografía del logo
 
@@ -253,18 +257,20 @@ El carabiner es parte del diseño, no un accesorio. Es un elemento de identidad 
 
 ---
 
-# 10. COLOR SPECIFICATION
+# 10. COLOR SPECIFICATION — WIP, no definido
+
+**Los colores todavía no están decididos.** Burgundy, Brown y Lime son los que más nos gustan como candidatos, pero la elección final (incluso si el lanzamiento es en un solo color o en varios) depende del presupuesto y la cantidad de la primera tirada — a mayor cantidad de colores, mayor MOQ y costo de molde por componente/color. Burgundy es el más avanzado como referencia porque ya tiene Pantone asignado, pero no está confirmado como color de lanzamiento.
 
 Todos los colores con acabado satinado semi-opaco (15–20 GU). Los valores Pantone son de referencia — validar con colorímetro en producción (ΔE ≤ 2).
 
-| Nombre   | HEX       | RGB           | Pantone        | Tirada |
+| Nombre   | HEX       | RGB           | Pantone        | Estado |
 | -------- | --------- | ------------- | -------------- | ------ |
-| **Burgundy** | `#6D2E32` | 109, 46, 50 | Pantone 490 C | **Primera tirada** |
-| Brown    | `#8A5A37` | 138, 90, 55   | Pantone 7572 C | Próxima etapa |
-| Lime     | `#D7DAA0` | 215, 218, 160 | Pantone 5803 C | Próxima etapa |
+| Burgundy | `#6D2E32` | 109, 46, 50 | Pantone 490 C | Candidato — el más concreto de los tres |
+| Brown    | `#8A5A37` | 138, 90, 55   | Pantone 7572 C | Candidato |
+| Lime     | `#D7DAA0` | 215, 218, 160 | Pantone 5803 C | Candidato |
 | Hardware | Antique Brass | —           | — *(a definir con Facu)* | — |
 
-> **Primera tirada:** solo Burgundy para mantener el MOQ manejable al lanzamiento.
+> **Primera tirada — sin definir:** todavía no sabemos si va a ser de un solo color o de varios. Se define cuando cerremos proveedor, MOQ y presupuesto.
 
 ---
 
@@ -331,17 +337,19 @@ Secuencia de ensamblado:
 
 Este documento es la base de trabajo para Facundo Cardozo (diseño industrial). Ver [CONTRATOS.md](CONTRATOS.md) para el acuerdo completo.
 
-**Objetivo final:** archivos listos para enviar a fabricantes en China (Uzone / Apogee) y eventualmente Italia.
+**Objetivo final:** archivos listos para enviar a fabricante. Todavía **no tenemos ningún proveedor confirmado** — contactamos varios en China (Uzone, Apogee y otros, ver [PACKAGING.md](PACKAGING.md)) pero todos piden MOQs muy altos para una primera tirada. Estamos evaluando también fabricar en Argentina.
 
 **Pendientes críticos para Facu:**
+- [ ] Definir forma general del cuerpo (todavía abierta, ver Sección 4)
 - [ ] Validar y cerrar dimensiones exactas (alto, ancho, radios de indentaciones)
-- [ ] Definir mecanismo de cierre (tapa con refuerzo interno + spray)
+- [ ] Definir mecanismo de cierre — **pedido: a rosca**, compatibilizándolo con el spray (innegociable, ver Secciones 5 y 6)
+- [ ] Definir técnica de branding en el frasco (el nombre `pulso` tiene que estar sí o sí, la técnica es lo abierto)
 - [ ] Generar planos técnicos 2D con cotas completas
 - [ ] Renderizar vista explotada oficial
-- [ ] Validar paleta de color con colorímetro (Pantone + HEX finales)
+- [ ] Validar paleta de color con colorímetro (colores todavía sin definir, ver Sección 10)
 - [ ] Especificar tipo y paso de rosca
 - [ ] Prototipo físico 3D en plástico escala real
 
 ---
 
-*v1.2 — Agosto 2026 · Eme & Bianca · Con Facundo Cardozo como diseñador industrial*
+*v1.3 — Septiembre 2026 · Eme & Bianca · Con Facundo Cardozo como diseñador industrial*
