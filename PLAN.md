@@ -43,10 +43,16 @@
 
 ## Bloque 2 — Producto *(en curso)*
 
+### Definiciones de producto
+
+- [x] **Formato único** — 20–30ml (capacidad exacta a definir), modo llavero. No hay versión aparte para casa/70ml: el mosquetón/llavero es desmontable, el mismo frasco funciona colgado o suelto.
+- [x] **Recarga: post-MVP** — el frasco de lanzamiento no es recargable. La válvula giratoria para recarga queda para una etapa posterior.
+- [x] **Spray: innegociable.** Cierre: pedimos que sea a rosca, por cómo cuelga de la cartera — hay que plantearlo formalmente a Facu porque puede tensionar con el spray según el material/fabricante.
+
 ### Diseño industrial — Facundo Cardozo
 
-- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: forma organic pebble, mecanismo spray, hardware antique brass, 3 colores de marca. Branding en el frasco (debossed u otra técnica) a definir con Facu en Etapa 1.
-- [x] **Presupuesto acordado** — USD 1.600 total. Anticipo 30% (USD 480). Ver [CONTRATOS.md](CONTRATOS.md).
+- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: mecanismo spray (innegociable), cierre a rosca (pedido firme), hardware tipo mosquetón (propuesta, a definir en el diseño). Forma del cuerpo, colores y técnica de branding en el frasco todavía sin definir — se definen con Facu en Etapa 1.
+- [x] **Presupuesto acordado** — USD 1.600 total. Anticipo 30% (USD 480) — **pagado**. Ver [CONTRATOS.md](CONTRATOS.md).
 - [ ] **Etapa 1 — Revisión conceptual** (20% = USD 320) — análisis de la propuesta, puntos fuertes y débiles, factibilidad productiva, materiales y tecnologías.
 - [ ] **Etapa 2 — Desarrollo y definición** (20% = USD 320) — modelado 3D + impresiones para validar forma. Incluye 2 rondas de revisión.
 - [ ] **Etapa 3 — Documentación técnica** (30% = USD 480) — modelo 3D en STEP para fábrica, planos técnicos 2D, CMF, renders.
@@ -58,19 +64,19 @@
 
 ### Proveedores de fabricación
 
-Estado al 15/08/2026 — evaluando dos en paralelo:
+**Estado real: ningún proveedor confirmado.** Nos contactamos con varios en China (Apogee, Uzone y el resto de la lista en [PACKAGING.md](PACKAGING.md)), pero todos piden MOQs demasiado altos para una primera tirada chica. Por eso ahora también estamos evaluando fabricar en Argentina.
 
 | Proveedor | Estado | Material | MOQ | Precio/u | Molde |
 |---|---|---|---|---|---|
-| **Apogee** | Brief enviado 26/06 | Vidrio (o cerámica) | 6.000–15.000 u (mercado) | A confirmar | A confirmar |
-| **Jiangyin Uzone** | Conversación avanzada | Cerámica (su propuesta — en evaluación) | 3.000 u / color / componente | USD 3–5 EXW | ~USD 1.400 |
+| **Apogee** | Contactado — sin confirmar | Vidrio (o cerámica) | 6.000–15.000 u (mercado) | A confirmar | A confirmar |
+| **Jiangyin Uzone** | Contactado — sin confirmar | Cerámica (su propuesta — en evaluación) | 3.000 u / color / componente | USD 3–5 EXW | ~USD 1.400 |
 
-**Oferta Uzone (próxima call):** 1.000 u ahora + 2.000 almacenadas en su depósito hasta 1 año sin costo. 30% de depósito para asegurar. Lead time 40–50 días post aprobación de molde.  
+**Oferta Uzone:** 1.000 u ahora + 2.000 almacenadas en su depósito hasta 1 año sin costo. 30% de depósito para asegurar. Lead time 40–50 días post aprobación de molde. Sigue sin confirmarse — el MOQ real (3.000 u/componente/color) sigue siendo alto para una primera tirada.
 **Preguntas abiertas:** ¿puede la tapa roscar Y alojar el spray internamente? ¿Es cerámica el material correcto o resulta demasiado pesado para un frasco colgante?
 
-> **Material — WIP:** Facu evalúa materiales y tecnologías de producción en su Etapa 1. El proveedor y el material final se definen después de esa evaluación. Cerámica, vidrio y otras opciones siguen sobre la mesa.
+> **Material — WIP:** Facu evalúa materiales y tecnologías de producción en su Etapa 1. El proveedor y el material final se definen después de esa evaluación. Cerámica, vidrio y otras opciones siguen sobre la mesa — incluyendo fabricación local en Argentina.
 
-- [x] **Color primera tirada: Burgundy** — `#6D2E32` · Pantone 490C. Brown y Lime para etapas siguientes.
+- [ ] **Colores — sin definir.** Burgundy `#6D2E32` (Pantone 490C), Brown y Lime son los que más nos gustan, pero ninguno está confirmado. Si la primera tirada sale en un solo color o en varios depende del proveedor, el MOQ y el presupuesto que cerremos.
 
 ### Packaging de presentación / caja de envío
 
@@ -104,7 +110,7 @@ Con los bloques anteriores resueltos, armar el plan de negocio completo:
 - Costo de producción (diseño industrial + molde + fabricación + líquido + packaging)
 - Precio de venta
 - Margen bruto
-- Break-even de primera tirada (Burgundy, cantidad a definir)
+- Break-even de primera tirada (color/es y cantidad todavía a definir)
 - Proyección a 6 meses (escenario conservador y optimista)
 
 ---
@@ -115,7 +121,7 @@ Con los bloques anteriores resueltos, armar el plan de negocio completo:
 ✅ Hecho →       Nombre + look & feel + tono de voz
 ✅ Hecho →       Brief de diseño + contrato con Facu
 🔄 En curso →    Facu: revisión conceptual → 3D → prototipo
-🔄 En curso →    Proveedor: cerrar call con Uzone, definir fabricante
+🔄 En curso →    Proveedor: ninguno confirmado, MOQs de China muy altos → evaluando fabricar en Argentina
 ⬜ Pendiente →   Fragancias con Joaquín
 ⬜ Pendiente →   Modelo financiero (después de cotización cerrada)
 ⬜ Pendiente →   Presencia digital (Instagram, TikTok, web)
