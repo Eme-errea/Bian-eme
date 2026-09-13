@@ -1,9 +1,11 @@
 # Packaging — Proveedores de frascos
 
-> Seguimiento de contactos para el packaging de Pulso: frasco llavero (30ml) + frasco home (70ml).
-> Actualizado: 26/06/2026 (tarde)
+> Seguimiento de contactos para el packaging de Pulso: frasco único, formato llavero (20–30ml).
+> Actualizado: 13/09/2026
 
 ---
+
+**Estado real: no tenemos ningún proveedor confirmado.** Contactamos a toda la lista de abajo (China, principalmente) y el problema de fondo es el mismo en casi todos: piden MOQs demasiado altos para una primera tirada chica. Por eso ahora estamos evaluando en paralelo si conviene fabricar en Argentina en vez de importar.
 
 ## Resumen rápido
 
@@ -31,6 +33,7 @@
 | **Terra Crystal** | ⚪ Sin respuesta | Piedra/cristal, MOQ ref. 1.000+, consulta enviada 28/06 |
 | **G.P.Grant** | ⚪ Sin respuesta | Piedra natural (Suiza), consulta enviada 28/06 |
 | **MOSH® Micelio** | 💡 Opción a evaluar | No es proveedor de frascos — packaging de envío/presentación en micelio. Decisión pendiente con Bianca |
+| **Fabricación en Argentina** | 🆕 A explorar (13/09) | Todavía sin contactos concretos para el frasco en sí. Ya hay pistas locales para piezas sueltas: hardware/mosquetón (Barth, Hernández Galvano) y prototipado 3D (Sólidos, Fábrica 3D, Printonic) — ver sección de sourcing más abajo |
 
 ---
 
@@ -176,10 +179,13 @@ A todos se les mandó el mismo mail (réplica del enviado a Eurovetrocap) el 28/
 
 ## Próximos pasos
 
-1. Decidir Opción A (sin spray, tapa 100% a rosca) vs Opción B (con spray, tapa cobertora ajustada) para responderle a Uzone.
-2. Llamada con Apogee hoy 26/06, 1pm.
-3. Decidir si Cosmopak (10.000/SKU) es viable o se descarta.
-4. Insistir o descartar a GP Bottles (Ben) si sigue sin responder.
-5. Hacer seguimiento a Jarsking, Packafill y Roetell si no responden en los próximos días.
-6. Esperar respuestas de los 12 proveedores nuevos contactados el 28/06 (silicona, zamac/resina, piedra, vidrio).
-7. Evaluar prototipado local (Sólidos / Fábrica 3D / Printonic) para validar las 5 formas antes de comprometerse con molde en China.
+> **Actualización 13/09:** el spray quedó definido como innegociable y el cierre lo queremos a rosca (ver [PRODUCT_SPEC.md](PRODUCT_SPEC.md)). Eso descarta la Opción A de Uzone (sin spray). Con Uzone queda pendiente ver si la Opción B (spray + tapa cobertora, sin traba firme) es aceptable dado que necesitamos que el frasco vaya seguro colgado de una cartera — si no, Uzone puede quedar descartado. En paralelo, como ningún proveedor de afuera bajó de MOQs muy altos, el foco pasa a explorar fabricación en Argentina.
+
+1. Definir con Facu si algún fabricante puede resolver spray + rosca juntos, y con qué material.
+2. Evaluar si la Opción B de Uzone (spray sin traba firme) es aceptable o si hay que descartar a Uzone.
+3. Buscar y contactar posibles fabricantes de frascos en Argentina (no solo hardware/prototipado).
+4. Decidir si Cosmopak (10.000/SKU) es viable o se descarta.
+5. Insistir o descartar a GP Bottles (Ben) si sigue sin responder.
+6. Hacer seguimiento a Jarsking, Packafill y Roetell si no responden.
+7. Seguir esperando respuestas de los proveedores de silicona/zamac/piedra/vidrio contactados el 28/06.
+8. Evaluar prototipado local (Sólidos / Fábrica 3D / Printonic) para validar formas en resina antes de comprometerse con cualquier molde.
