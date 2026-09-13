@@ -1,6 +1,7 @@
 # Benchmark Competitivo — Perfume como Accesorio
 
-> Investigación para una marca de perfume-accesorio en formato llavero (30ml) + home (70ml). Buenos Aires, Argentina, 2026.
+> Investigación para una marca de perfume-accesorio en formato llavero (20–30ml). Buenos Aires, Argentina, 2026.
+> *Nota: esta investigación se hizo cuando el plan todavía incluía un formato adicional de 70ml para casa; ver nota en "Síntesis y gaps de mercado" más abajo.*
 
 ---
 
@@ -446,13 +447,15 @@ Fueguia 1833 tiene la identidad local pero a $320 el frasco. El mercado accesibl
 
 ### Insights accionables
 
-**Formato:** El llavero de 30ml es el diferencial de producto. El 70ml home es necesario para tener presencia en el baño, pero el llavero es el MVP de comunicación.
+> **Nota (13/09/2026):** este benchmark se hizo cuando el plan todavía incluía dos formatos (30ml llavero + 70ml home). El producto se definió después como **formato único** de 20–30ml, y la recarga quedó para **post-MVP** — ver [PRODUCT_SPEC.md](PRODUCT_SPEC.md). Los puntos de abajo que mencionan el 70ml o la recarga como parte del lanzamiento quedaron desactualizados; el resto del análisis competitivo sigue siendo válido.
 
-**Precio sugerido de referencia:** USD 20–30 para el 30ml (keychain). Posiciona arriba de Mixologie ($10–20) y en línea con Cyklar ($24). El 70ml podría ir en $40–60.
+**Formato:** El llavero de 20–30ml es el diferencial de producto y el foco único de lanzamiento (ya no hay versión 70ml/home en el plan actual).
+
+**Precio sugerido de referencia:** USD 20–30 para el keychain. Posiciona arriba de Mixologie ($10–20) y en línea con Cyklar ($24).
 
 **Comunicación:** TikTok-first con founder narrative (Cyklar + Phlur son el modelo). No hace falta ser famosa — hace falta ser auténtica y tener un punto de vista claro.
 
-**Error crítico a evitar:** El packaging que tiene fuga de Gisou fue su mayor crítica. El frasco con válvula giratoria para recarga (diseño de Joaquín) es una ventaja funcional real — hay que comunicarlo.
+**Error crítico a evitar:** El packaging que tiene fuga de Gisou fue su mayor crítica. La hermeticidad (spray + cierre a rosca) es un punto que cuidar en el diseño con Facu — la recarga con válvula giratoria (diseño de Joaquín) queda como ventaja a comunicar más adelante, en la etapa post-MVP.
 
 **El llavero como coleccionable:** Gisou lo probó con lip oils — ediciones limitadas y charms generan recompra. Es un modelo a replicar con las 3 fragancias.
 
