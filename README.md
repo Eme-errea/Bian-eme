@@ -32,11 +32,13 @@ Para acompañarte, no para esperarte.
 **Llevalo puesto.**
 
 ### Specs técnicas (en desarrollo)
-- Formatos: 30ml (llavero, para llevar) y 70ml (para tener en casa)
-- Frasco: recargable con válvula giratoria
+- Formato único: 20–30ml (capacidad exacta a definir), modo llavero — el mosquetón/llavero es desmontable, así que el frasco también se puede usar solo
+- Mecanismo: **spray, innegociable** — no es roll-on ni tapón simple
+- Cierre: creemos que tiene que ser **a rosca**, por cómo el frasco cuelga de una cartera (seguridad/hermeticidad). Falta pedirlo formalmente en el diseño con Facu
+- Frasco: **no recargable en el MVP** — la recarga (válvula giratoria) queda para una etapa posterior
 - Líquido: formulación propia con alcohol de cereal destilado
 - Fragancias: réplicas de alta fidelidad (proceso vía cromatógrafo)
-- Packaging: investigando proveedores de frascos tipo llavero personalizados
+- Packaging: sin proveedor confirmado todavía. Contactamos varios en China (Apogee, Uzone y otros) pero piden MOQs muy altos para una primera tirada — evaluando también fabricar en Argentina
 
 ---
 
@@ -85,7 +87,7 @@ Joaquín es el productor del líquido. Trabaja con cromatógrafo para descompone
 **Lo que acordamos:**
 - El alcohol de cereal destilado es el insumo preferido para la dilución
 - La fidelidad de la réplica depende de la calidad de las materias primas
-- El frasco tiene que tener válvula giratoria para recarga
+- El frasco tiene que tener válvula giratoria para recarga *(nota posterior: la recarga se movió a una etapa post-MVP, el frasco de lanzamiento no es recargable)*
 - Próximo paso: conseguir muestras de frascos tipo llavero (investigar proveedores chinos)
 
 ---
