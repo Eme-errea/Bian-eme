@@ -11,6 +11,7 @@
 - [x] **Look & feel visual** — dirección definida. Ver referencias y decisiones abajo ↓
 - [ ] **Logo** — **WIP**. Tipografía en exploración (Syne ExtraBold descartada como definitiva). Pendiente: definir dirección tipográfica, estilo del logo, color → exportar PNG + SVG.
 - [x] **Guía de tono de voz** — ver [TONO.md](TONO.md)
+- [x] **Perfil de audiencia** — edad, geografía, hábitos de consumo e influencers, ver [AUDIENCIA.md](AUDIENCIA.md). Basado en estimaciones propias + benchmark de competencia, falta validar con datos duros (encuestas, data de redes).
 
 ### Referencias visuales — Look & feel
 
