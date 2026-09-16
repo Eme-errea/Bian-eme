@@ -50,6 +50,8 @@ Busca salir de lo tradicional. No sigue las reglas de la perfumería — las rom
 **CREADORA** — Crea lo que no existía. Fragancia como accesorio.  
 Un objeto que se lleva, no que se guarda.
 
+*Estos son los arquetipos de marca. Para el perfil de audiencia bajado a tierra (edad, geografía, hábitos de consumo, influencers) ver [AUDIENCIA.md](AUDIENCIA.md).*
+
 ---
 
 ## Core Values
