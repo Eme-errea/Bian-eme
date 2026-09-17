@@ -46,13 +46,13 @@
 
 ### Definiciones de producto
 
-- [x] **Formato único** — 20–30ml (capacidad exacta a definir), modo llavero. No hay versión aparte para casa/70ml: el mosquetón/llavero es desmontable, el mismo frasco funciona colgado o suelto.
+- [x] **Formato llavero: innegociable.** Único formato — 20–30ml (capacidad exacta a definir). No hay versión aparte para casa/70ml: el mosquetón/llavero es desmontable, pero que el frasco cuelgue de la cartera no se negocia.
 - [x] **Recarga: post-MVP** — el frasco de lanzamiento no es recargable. La válvula giratoria para recarga queda para una etapa posterior.
 - [x] **Spray: innegociable.** Cierre: pedimos que sea a rosca, por cómo cuelga de la cartera — hay que plantearlo formalmente a Facu porque puede tensionar con el spray según el material/fabricante.
 
 ### Diseño industrial — Facundo Cardozo
 
-- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: mecanismo spray (innegociable), cierre a rosca (pedido firme), hardware tipo mosquetón (propuesta, a definir en el diseño). Forma del cuerpo, colores y técnica de branding en el frasco todavía sin definir — se definen con Facu en Etapa 1.
+- [x] **Brief de diseño** — brief completo entregado a Facu (julio 2026). Incluye: formato llavero (innegociable), mecanismo spray (innegociable), cierre a rosca (pedido firme), hardware tipo mosquetón (propuesta, a definir en el diseño). Forma del cuerpo, indentaciones, colores y técnica de branding en el frasco todavía sin definir — se definen con Facu en Etapa 1.
 - [x] **Presupuesto acordado** — USD 1.600 total. Anticipo 30% (USD 480) — **pagado**. Ver [CONTRATOS.md](CONTRATOS.md).
 - [ ] **Etapa 1 — Revisión conceptual** (20% = USD 320) — análisis de la propuesta, puntos fuertes y débiles, factibilidad productiva, materiales y tecnologías.
 - [ ] **Etapa 2 — Desarrollo y definición** (20% = USD 320) — modelado 3D + impresiones para validar forma. Incluye 2 rondas de revisión.
