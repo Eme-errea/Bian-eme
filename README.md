@@ -32,7 +32,7 @@ Para acompañarte, no para esperarte.
 **Llevalo puesto.**
 
 ### Specs técnicas (en desarrollo)
-- Formato único: 20–30ml (capacidad exacta a definir), modo llavero — el mosquetón/llavero es desmontable, así que el frasco también se puede usar solo
+- Formato: **modo llavero, innegociable** — 20–30ml (capacidad exacta a definir). El frasco tiene que poder colgarse de la cartera; el mosquetón/llavero es desmontable, así que también se puede usar suelto
 - Mecanismo: **spray, innegociable** — no es roll-on ni tapón simple
 - Cierre: creemos que tiene que ser **a rosca**, por cómo el frasco cuelga de una cartera (seguridad/hermeticidad). Falta pedirlo formalmente en el diseño con Facu
 - Frasco: **no recargable en el MVP** — la recarga (válvula giratoria) queda para una etapa posterior
