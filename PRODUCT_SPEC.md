@@ -14,7 +14,7 @@
 | Product Name   | PULSO Clip & Go                                                      |
 | Category       | Fragrance bottle — **no recargable en el MVP** (recarga: post-MVP)   |
 | Capacity       | 20–30 ml (a definir)                                                 |
-| Formato        | **Único** — sin versión "home" aparte. Mosquetón/llavero desmontable: el mismo frasco funciona colgado o suelto |
+| Formato        | **Llavero — INNEGOCIABLE.** El frasco tiene que poder colgarse (bag charm); único formato, sin versión "home" aparte. El mosquetón/llavero es desmontable, así que también funciona suelto |
 | Concept        | Frasco de perfume diseñado como bag charm de lujo cotidiano |
 
 ---
@@ -81,9 +81,9 @@ Vista explotada con las siguientes partes numeradas:
 
 Soft continuous curvature. Sin texturas, sin orange peel, sin grano. Micro satin perfectamente liso.
 
-## Indentaciones — INNEGOCIABLES
+## Indentaciones — a definir con el diseño
 
-> Nota: la forma general del cuerpo (arriba) todavía no está cerrada. Estas indentaciones son un requisito de identidad/grip que queremos pedir en el diseño cualquiera sea la forma final que salga de la Etapa 1 con Facu.
+> Nota: la forma general del cuerpo (arriba) todavía no está cerrada, así que estas indentaciones tampoco lo están. Es una idea de identidad/grip que queremos plantear en el diseño con Facu, pero depende de qué forma termine saliendo de la Etapa 1 — puede que no aplique tal cual a la forma final.
 
 ### Izquierda
 
@@ -103,7 +103,7 @@ Soft continuous curvature. Sin texturas, sin orange peel, sin grano. Micro satin
 | Radio      | — *(a relevar con Facu)*               |
 | Forma      | Depresión orgánica vertical, más pequeña y alargada |
 
-> Las dos indentaciones son parte de la identidad del objeto y del grip. No son decorativas.
+> La idea de las dos indentaciones es sumar identidad y grip al objeto — no serían decorativas — pero es una propuesta a validar con Facu, no un requisito cerrado.
 
 ## Base
 
@@ -207,7 +207,7 @@ El actuator queda oculto dentro de la tapa cuando está cerrada.
 
 # 8. HARDWARE
 
-Que haya un mosquetón/hardware visible como elemento de identidad de marca sí es un pedido firme — no un accesorio genérico. Los detalles concretos (forma, acabado, medidas) son una **propuesta a validar en el diseño con Facu**, no specs cerradas todavía.
+**Que el frasco sea colgable (formato llavero/bag charm) es innegociable** — es la esencia del producto, no un detalle de diseño. Que haya un mosquetón/hardware visible como elemento de identidad de marca también es un pedido firme. Los detalles concretos del hardware (forma, acabado, medidas) sí son una **propuesta a validar en el diseño con Facu**, no specs cerradas todavía.
 
 ## Mosquetón (Carabiner) — propuesta, a definir en el diseño
 
@@ -233,7 +233,7 @@ Que haya un mosquetón/hardware visible como elemento de identidad de marca sí 
 ## Logo Plate
 
 | Atributo | Especificación                   |
-| -------- | -------------------------------- |
+| -------- | --------------------------------- |
 | Material | Acero inoxidable 304             |
 | Acabado  | Brushed Antique Brass            |
 | Texto    | `pulso` (vertical)               |
@@ -324,7 +324,7 @@ Secuencia de ensamblado:
 # 14. PACKAGING DE PRESENTACIÓN
 
 | Elemento    | Especificación          |
-| ----------- | ----------------------- |
+| ----------- | ------------------------ |
 | Producto    | Frasco ensamblado       |
 | Caja        | Evaluar MOSH® Micelio (packaging sustentable de hongos) — pendiente decisión con Bianca |
 | Inserto     | — *(a definir)*         |
@@ -341,8 +341,9 @@ Este documento es la base de trabajo para Facundo Cardozo (diseño industrial). 
 
 **Pendientes críticos para Facu:**
 - [ ] Definir forma general del cuerpo (todavía abierta, ver Sección 4)
-- [ ] Validar y cerrar dimensiones exactas (alto, ancho, radios de indentaciones)
-- [ ] Definir mecanismo de cierre — **pedido: a rosca**, compatibilizándolo con el spray (innegociable, ver Secciones 5 y 6)
+- [ ] Definir si van indentaciones y con qué medidas — propuesta a validar, no cerrada (ver Sección 4)
+- [ ] Validar y cerrar dimensiones exactas (alto, ancho)
+- [ ] Definir mecanismo de cierre — **pedido: a rosca**, compatibilizándolo con el spray (innegociable, ver Secciones 5 y 6) y con el formato llavero (innegociable, ver Sección 8)
 - [ ] Definir técnica de branding en el frasco (el nombre `pulso` tiene que estar sí o sí, la técnica es lo abierto)
 - [ ] Generar planos técnicos 2D con cotas completas
 - [ ] Renderizar vista explotada oficial
